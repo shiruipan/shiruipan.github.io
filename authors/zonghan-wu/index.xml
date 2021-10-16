@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zonghan Wu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/zonghan-wu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/zonghan-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zonghan Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/authors/zonghan-wu/avatar_hu713a41ccc627e316e2b09e93a98588ed_2874931_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zonghan Wu</title>
+      <link>https://shiruipan.github.io/authors/zonghan-wu/</link>
+    </image>
+    
+    <item>
+      <title>Heterogeneous Graph Attention Network for Small and Medium-Sized Enterprises Bankruptcy Prediction</title>
+      <link>https://shiruipan.github.io/publication/pakdd-21-zheng/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pakdd-21-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/kdd-2020-wu/</link>
+      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/kdd-2020-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive survey on graph neural networks</title>
+      <link>https://shiruipan.github.io/publication/wu-2019-comprehensive/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-2019-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2019-wu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2019-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Su | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/steven-su/</link>
+      <atom:link href="https://shiruipan.github.io/authors/steven-su/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven Su</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Steven Su</title>
+      <link>https://shiruipan.github.io/authors/steven-su/</link>
+    </image>
+    
+    <item>
+      <title>iDARTS: Differentiable Architecture Search with Stochastic Implicit Gradients</title>
+      <link>https://shiruipan.github.io/publication/icml-2021-zhang/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icml-2021-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks based Lung Nodule Classification: A Surrogate-Assisted Evolutionary Algorithm for Hyperparameter Optimization</title>
+      <link>https://shiruipan.github.io/publication/tevc-21-zhang/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tevc-21-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting</title>
+      <link>https://shiruipan.github.io/publication/tpami-20-zhang/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tpami-20-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement</title>
+      <link>https://shiruipan.github.io/publication/neurips-20-zhang/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-20-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Neural Architecture Search via Novelty Driven Sampling</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2020-zhang/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2020-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization</title>
+      <link>https://shiruipan.github.io/publication/cvpr-2020-zhang/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-2020-zhang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

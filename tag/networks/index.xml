@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networks | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/networks/</link>
+      <atom:link href="https://shiruipan.github.io/tag/networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Networks</title>
+      <link>https://shiruipan.github.io/tag/networks/</link>
+    </image>
+    
+    <item>
+      <title>Going Deep: Graph Convolutional Ladder-shape Networks</title>
+      <link>https://shiruipan.github.io/publication/aaai-2020-hu/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GSSNN: Graph Smoothing Splines Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/aaai-2020-zhu/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Social Audiences in Business Information Networks</title>
+      <link>https://shiruipan.github.io/publication/pr-2019-zheng/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pr-2019-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2019-wu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2019-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFOND: consensus factorization for co-clustering networked data</title>
+      <link>https://shiruipan.github.io/publication/guo-cfond-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/guo-cfond-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarially regularized graph autoencoder for graph embedding</title>
+      <link>https://shiruipan.github.io/publication/pan-adversarially-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-adversarially-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lan Du | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/lan-du/</link>
+      <atom:link href="https://shiruipan.github.io/authors/lan-du/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lan Du</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Lan Du</title>
+      <link>https://shiruipan.github.io/authors/lan-du/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging Information Bottleneck for Scientific Document Summarization</title>
+      <link>https://shiruipan.github.io/publication/emnlp-21-ju/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/emnlp-21-ju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph Neural Networks with Positive and Unlabeled Nodes</title>
+      <link>https://shiruipan.github.io/publication/tkdd-21-wu/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkdd-21-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning</title>
+      <link>https://shiruipan.github.io/publication/cikm-19-wu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cikm-19-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

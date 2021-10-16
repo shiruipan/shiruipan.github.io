@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gang Niu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/gang-niu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/gang-niu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gang Niu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Gang Niu</title>
+      <link>https://shiruipan.github.io/authors/gang-niu/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure</title>
+      <link>https://shiruipan.github.io/publication/icdm-20-wang/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-20-wang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

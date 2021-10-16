@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature selection | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/feature-selection/</link>
+      <atom:link href="https://shiruipan.github.io/tag/feature-selection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature selection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Feature selection</title>
+      <link>https://shiruipan.github.io/tag/feature-selection/</link>
+    </image>
+    
+    <item>
+      <title>Time series feature learning with labeled and unlabeled data</title>
+      <link>https://shiruipan.github.io/publication/wang-time-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wang-time-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query-oriented citation recommendation based on network correlation</title>
+      <link>https://shiruipan.github.io/publication/yang-query-oriented-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/yang-query-oriented-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task sensitive feature exploration and learning for multitask graph classification</title>
+      <link>https://shiruipan.github.io/publication/pan-task-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-task-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph-view subgraph mining for graph classification</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the best not the most: regularized loss minimization subgraph selection for graph classification</title>
+      <link>https://shiruipan.github.io/publication/pan-finding-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pan-finding-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-graph-view Learning for Graph Classification</title>
+      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Neural Networks | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/graph-neural-networks/</link>
+      <atom:link href="https://shiruipan.github.io/tag/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Neural Networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/tag/graph-neural-networks/</link>
+    </image>
+    
+    <item>
+      <title>Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels</title>
+      <link>https://shiruipan.github.io/publication/neurips-21-wan/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-21-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications</title>
+      <link>https://shiruipan.github.io/publication/icdm-21-wu/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-21-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypergraph Convolutional Network for Group Recommendation</title>
+      <link>https://shiruipan.github.io/publication/icdm-21-jia/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-21-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph Representations with Maximal Cliques</title>
+      <link>https://shiruipan.github.io/publication/molaei-tnnls-21/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/molaei-tnnls-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning</title>
+      <link>https://shiruipan.github.io/publication/cikm-21-jin/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cikm-21-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/cikm-21-zhang/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cikm-21-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Neighbor-aware Embedding for Node Clustering in Attributed Graphs</title>
+      <link>https://shiruipan.github.io/publication/pr-wang-21/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pr-wang-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenWGL: Open-World Graph Learning for Unseen Class Node Classification</title>
+      <link>https://shiruipan.github.io/publication/kais-wu-21/</link>
+      <pubDate>Fri, 11 Jun 2021 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/kais-wu-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Network Embedding for Link Prediction via VAE joint Attention Mechanism</title>
+      <link>https://shiruipan.github.io/publication/tnnls-21-jiao/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-21-jiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2021-jin/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2021-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Interactive Graph Convolutional Networks for Hyperspectral Image Classification</title>
+      <link>https://shiruipan.github.io/publication/tgrs-2021-wan/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tgrs-2021-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Graph Attention Network for Small and Medium-Sized Enterprises Bankruptcy Prediction</title>
+      <link>https://shiruipan.github.io/publication/pakdd-21-zheng/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pakdd-21-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Knowledge Graphs: Representation, Acquisition and Applications</title>
+      <link>https://shiruipan.github.io/publication/tnnls-21-ji/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-21-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Learning: A Survey</title>
+      <link>https://shiruipan.github.io/publication/tai-21-xia/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tai-21-xia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</title>
+      <link>https://shiruipan.github.io/publication/tnnls-21-liu/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-21-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph Neural Networks with Positive and Unlabeled Nodes</title>
+      <link>https://shiruipan.github.io/publication/tkdd-21-wu/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkdd-21-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning</title>
+      <link>https://shiruipan.github.io/publication/aaai-2021-wan/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2021-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement</title>
+      <link>https://shiruipan.github.io/publication/neurips-20-zhang/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-20-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Geometry Interaction Learning</title>
+      <link>https://shiruipan.github.io/publication/neurips-20-zhu/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-20-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Stochastic Neural Networks for Semi-supervised Learning</title>
+      <link>https://shiruipan.github.io/publication/neurips-20-wang/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-20-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure</title>
+      <link>https://shiruipan.github.io/publication/icdm-20-wang/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-20-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenWGL: Open-World Graph Learning</title>
+      <link>https://shiruipan.github.io/publication/icdm-20-wu/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-20-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/kdd-2020-wu/</link>
+      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/kdd-2020-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Relations Aggregation Learning in Social Networks</title>
+      <link>https://shiruipan.github.io/publication/jcdl-2020-xu/</link>
+      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/jcdl-2020-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral Image Classification with Context-aware Dynamic Graph Convolutional Networks</title>
+      <link>https://shiruipan.github.io/publication/tgrs-2020-wan/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tgrs-2020-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive survey on graph neural networks</title>
+      <link>https://shiruipan.github.io/publication/wu-2019-comprehensive/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wu-2019-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Adaptive Graph Convolutional Networks</title>
+      <link>https://shiruipan.github.io/publication/www-2020-wu/</link>
+      <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-2020-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Going Deep: Graph Convolutional Ladder-shape Networks</title>
+      <link>https://shiruipan.github.io/publication/aaai-2020-hu/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GSSNN: Graph Smoothing Splines Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/aaai-2020-zhu/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2020-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-Adversarial Graph Neural Networks for Text Classification</title>
+      <link>https://shiruipan.github.io/publication/icdm-19-wu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-19-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph Embedding With Adversarial Training Methods</title>
+      <link>https://shiruipan.github.io/publication/tcyb-2019-pan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tcyb-2019-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning</title>
+      <link>https://shiruipan.github.io/publication/cikm-19-wu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cikm-19-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation Structure-Aware Heterogeneous Graph Neural Network</title>
+      <link>https://shiruipan.github.io/publication/icdm-19-zhu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-19-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributed Graph Clustering: A Deep Attentional Embedding Approach</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2019-wang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2019-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2019-wu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2019-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

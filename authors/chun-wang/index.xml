@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chun Wang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/chun-wang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/chun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chun Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/authors/chun-wang/avatar_hu0042f1e5f8b2bbcbbdb3b6473007646c_336733_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chun Wang</title>
+      <link>https://shiruipan.github.io/authors/chun-wang/</link>
+    </image>
+    
+    <item>
+      <title>Deep Neighbor-aware Embedding for Node Clustering in Attributed Graphs</title>
+      <link>https://shiruipan.github.io/publication/pr-wang-21/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/pr-wang-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure</title>
+      <link>https://shiruipan.github.io/publication/icdm-20-wang/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-20-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attributed Graph Clustering: A Deep Attentional Embedding Approach</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2019-wang/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2019-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MGAE: marginalized graph autoencoder for graph clustering</title>
+      <link>https://shiruipan.github.io/publication/wang-mgae-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wang-mgae-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

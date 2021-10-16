@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graph embedding | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/graph-embedding/</link>
+      <atom:link href="https://shiruipan.github.io/tag/graph-embedding/index.xml" rel="self" type="application/rss+xml" />
+    <description>graph embedding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>graph embedding</title>
+      <link>https://shiruipan.github.io/tag/graph-embedding/</link>
+    </image>
+    
+    <item>
+      <title>Familial Clustering For Weakly-labeled Android Malware Using Hybrid Representation Learning</title>
+      <link>https://shiruipan.github.io/publication/zhang-2019-tifs/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/zhang-2019-tifs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive knowledge subgraph ensemble for robust and trustworthy knowledge graph completion</title>
+      <link>https://shiruipan.github.io/publication/wwwj-2019-wan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wwwj-2019-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graph Embedding With Adversarial Training Methods</title>
+      <link>https://shiruipan.github.io/publication/tcyb-2019-pan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tcyb-2019-pan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

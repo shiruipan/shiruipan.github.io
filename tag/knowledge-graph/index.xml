@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge Graph | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/knowledge-graph/</link>
+      <atom:link href="https://shiruipan.github.io/tag/knowledge-graph/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knowledge Graph</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Knowledge Graph</title>
+      <link>https://shiruipan.github.io/tag/knowledge-graph/</link>
+    </image>
+    
+    <item>
+      <title>A Survey on Knowledge Graphs: Representation, Acquisition and Applications</title>
+      <link>https://shiruipan.github.io/publication/tnnls-21-ji/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-21-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive knowledge subgraph ensemble for robust and trustworthy knowledge graph completion</title>
+      <link>https://shiruipan.github.io/publication/wwwj-2019-wan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/wwwj-2019-wan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

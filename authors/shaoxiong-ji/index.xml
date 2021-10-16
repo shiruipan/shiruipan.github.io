@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaoxiong Ji | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/shaoxiong-ji/</link>
+      <atom:link href="https://shiruipan.github.io/authors/shaoxiong-ji/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaoxiong Ji</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/authors/shaoxiong-ji/avatar_hu3a360beed7a33c3802559899b486b35d_420076_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Shaoxiong Ji</title>
+      <link>https://shiruipan.github.io/authors/shaoxiong-ji/</link>
+    </image>
+    
+    <item>
+      <title>Medical Code Assignment with Gated Convolution and Note-Code Interaction</title>
+      <link>https://shiruipan.github.io/publication/ji-2021-acl-finding/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ji-2021-acl-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Knowledge Graphs: Representation, Acquisition and Applications</title>
+      <link>https://shiruipan.github.io/publication/tnnls-21-ji/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-21-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications</title>
+      <link>https://shiruipan.github.io/publication/ji-2020-tccs/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ji-2020-tccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Suicidal Ideation with Data Protection in Online Communities</title>
+      <link>https://shiruipan.github.io/publication/ji-detecting-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ji-detecting-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised learning for suicidal ideation detection in online user content</title>
+      <link>https://shiruipan.github.io/publication/ji-supervised-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ji-supervised-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

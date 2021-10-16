@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zongyuan Ge | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/zongyuan-ge/</link>
+      <atom:link href="https://shiruipan.github.io/authors/zongyuan-ge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zongyuan Ge</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Zongyuan Ge</title>
+      <link>https://shiruipan.github.io/authors/zongyuan-ge/</link>
+    </image>
+    
+    <item>
+      <title>One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting</title>
+      <link>https://shiruipan.github.io/publication/tpami-20-zhang/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tpami-20-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement</title>
+      <link>https://shiruipan.github.io/publication/neurips-20-zhang/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-20-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grounding Visual Concepts for Multimedia Event Detection and Multimedia Event Captioning in Zero-shot Setting</title>
+      <link>https://shiruipan.github.io/publication/kdd-2020-li/</link>
+      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/kdd-2020-li/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

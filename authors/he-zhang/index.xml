@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>He Zhang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/he-zhang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/he-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>He Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/authors/he-zhang/avatar_huda0d38eb919fb1d0cb5359be8a4e7e77_71522_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>He Zhang</title>
+      <link>https://shiruipan.github.io/authors/he-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/cikm-21-zhang/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/cikm-21-zhang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

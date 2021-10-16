@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanan Cao | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/yanan-cao/</link>
+      <atom:link href="https://shiruipan.github.io/authors/yanan-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanan Cao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 12:15:49 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yanan Cao</title>
+      <link>https://shiruipan.github.io/authors/yanan-cao/</link>
+    </image>
+    
+    <item>
+      <title>Task-adaptive Neural Process for User Cold-Start Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-2021-lin/</link>
+      <pubDate>Mon, 11 Jan 2021 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-2021-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Geometry Interaction Learning</title>
+      <link>https://shiruipan.github.io/publication/neurips-20-zhu/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-20-zhu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

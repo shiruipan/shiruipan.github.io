@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Gong | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/chen-gong/</link>
+      <atom:link href="https://shiruipan.github.io/authors/chen-gong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen Gong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Chen Gong</title>
+      <link>https://shiruipan.github.io/authors/chen-gong/</link>
+    </image>
+    
+    <item>
+      <title>Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels</title>
+      <link>https://shiruipan.github.io/publication/neurips-21-wan/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-21-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2021-jin/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2021-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Interactive Graph Convolutional Networks for Hyperspectral Image Classification</title>
+      <link>https://shiruipan.github.io/publication/tgrs-2021-wan/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tgrs-2021-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</title>
+      <link>https://shiruipan.github.io/publication/tnnls-21-liu/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-21-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning</title>
+      <link>https://shiruipan.github.io/publication/aaai-2021-wan/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2021-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral Image Classification with Context-aware Dynamic Graph Convolutional Networks</title>
+      <link>https://shiruipan.github.io/publication/tgrs-2020-wan/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tgrs-2020-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning Like Human: Hierarchical Reinforcement Learning for Knowledge Graph Reasoning</title>
+      <link>https://shiruipan.github.io/publication/ijcai-2020-wan/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-2020-wan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommender Systems | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/recommender-systems/</link>
+      <atom:link href="https://shiruipan.github.io/tag/recommender-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recommender Systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recommender Systems</title>
+      <link>https://shiruipan.github.io/tag/recommender-systems/</link>
+    </image>
+    
+    <item>
+      <title>Hypergraph Convolutional Network for Group Recommendation</title>
+      <link>https://shiruipan.github.io/publication/icdm-21-jia/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-21-jia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-adaptive Neural Process for User Cold-Start Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-2021-lin/</link>
+      <pubDate>Mon, 11 Jan 2021 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-2021-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Implicit Influence from Information Propagation for Social Recommendation</title>
+      <link>https://shiruipan.github.io/publication/tcyb-2019-xiong/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tcyb-2019-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social recommendation with evolutionary opinion dynamics</title>
+      <link>https://shiruipan.github.io/publication/xiong-social-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/xiong-social-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

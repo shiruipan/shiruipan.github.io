@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jian Yang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/jian-yang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/jian-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jian Yang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Jian Yang</title>
+      <link>https://shiruipan.github.io/authors/jian-yang/</link>
+    </image>
+    
+    <item>
+      <title>Dual Interactive Graph Convolutional Networks for Hyperspectral Image Classification</title>
+      <link>https://shiruipan.github.io/publication/tgrs-2021-wan/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tgrs-2021-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning</title>
+      <link>https://shiruipan.github.io/publication/aaai-2021-wan/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-2021-wan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral Image Classification with Context-aware Dynamic Graph Convolutional Networks</title>
+      <link>https://shiruipan.github.io/publication/tgrs-2020-wan/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tgrs-2020-wan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

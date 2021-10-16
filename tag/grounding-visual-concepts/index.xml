@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grounding Visual Concepts | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/grounding-visual-concepts/</link>
+      <atom:link href="https://shiruipan.github.io/tag/grounding-visual-concepts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grounding Visual Concepts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 12:15:49 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Grounding Visual Concepts</title>
+      <link>https://shiruipan.github.io/tag/grounding-visual-concepts/</link>
+    </image>
+    
+    <item>
+      <title>Grounding Visual Concepts for Multimedia Event Detection and Multimedia Event Captioning in Zero-shot Setting</title>
+      <link>https://shiruipan.github.io/publication/kdd-2020-li/</link>
+      <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/kdd-2020-li/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

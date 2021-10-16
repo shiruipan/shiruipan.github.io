@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Lyu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/juan-lyu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/juan-lyu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Lyu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Juan Lyu</title>
+      <link>https://shiruipan.github.io/authors/juan-lyu/</link>
+    </image>
+    
+    <item>
+      <title>Convolutional Neural Networks based Lung Nodule Classification: A Surrogate-Assisted Evolutionary Algorithm for Hyperparameter Optimization</title>
+      <link>https://shiruipan.github.io/publication/tevc-21-zhang/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/tevc-21-zhang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

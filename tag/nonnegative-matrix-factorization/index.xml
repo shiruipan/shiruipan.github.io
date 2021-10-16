@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nonnegative matrix factorization | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/nonnegative-matrix-factorization/</link>
+      <atom:link href="https://shiruipan.github.io/tag/nonnegative-matrix-factorization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nonnegative matrix factorization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Nonnegative matrix factorization</title>
+      <link>https://shiruipan.github.io/tag/nonnegative-matrix-factorization/</link>
+    </image>
+    
+    <item>
+      <title>CFOND: consensus factorization for co-clustering networked data</title>
+      <link>https://shiruipan.github.io/publication/guo-cfond-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/guo-cfond-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explore semantic topics and author communities for citation recommendation in bipartite bibliographic network</title>
+      <link>https://shiruipan.github.io/publication/dai-explore-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/publication/dai-explore-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
