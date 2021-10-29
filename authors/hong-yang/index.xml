@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/hong-yang/</link>
       <atom:link href="https://shiruipan.github.io/authors/hong-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hong Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Oct 2022 19:56:22 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/hong-yang/avatar_hu17cd15d4450d0914570264d0350a497d_5426_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Hong Yang</title>
       <link>https://shiruipan.github.io/authors/hong-yang/</link>
     </image>
+    
+    <item>
+      <title>Discrete Embedding for Attributed Graphs</title>
+      <link>https://shiruipan.github.io/publication/yang-pr-22/</link>
+      <pubDate>Sat, 22 Oct 2022 19:56:22 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/yang-pr-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Low-Bit Quantization for Attributed Network Representation Learning</title>

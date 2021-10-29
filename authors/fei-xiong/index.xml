@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/fei-xiong/</link>
       <atom:link href="https://shiruipan.github.io/authors/fei-xiong/index.xml" rel="self" type="application/rss+xml" />
     <description>Fei Xiong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Oct 2021 15:01:58 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Fei Xiong</title>
       <link>https://shiruipan.github.io/authors/fei-xiong/</link>
     </image>
+    
+    <item>
+      <title>Anomaly Detection in Dynamic Graphs via Transformer</title>
+      <link>https://shiruipan.github.io/publication/tkde-liu-21/</link>
+      <pubDate>Wed, 27 Oct 2021 15:01:58 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-liu-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploiting Implicit Influence from Information Propagation for Social Recommendation</title>

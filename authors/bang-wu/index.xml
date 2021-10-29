@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/bang-wu/</link>
       <atom:link href="https://shiruipan.github.io/authors/bang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Bang Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 19:38:03 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/bang-wu/avatar_hu2dd37d392c8646ea01c5cf7b022785b3_5843845_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Bang Wu</title>
       <link>https://shiruipan.github.io/authors/bang-wu/</link>
     </image>
+    
+    <item>
+      <title>Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation</title>
+      <link>https://shiruipan.github.io/publication/asiaccs-22-wu/</link>
+      <pubDate>Mon, 30 May 2022 19:38:03 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/asiaccs-22-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications</title>

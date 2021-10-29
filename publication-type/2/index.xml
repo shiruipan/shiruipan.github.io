@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/publication-type/2/</link>
       <atom:link href="https://shiruipan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Oct 2022 19:56:22 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://shiruipan.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Discrete Embedding for Attributed Graphs</title>
+      <link>https://shiruipan.github.io/publication/yang-pr-22/</link>
+      <pubDate>Sat, 22 Oct 2022 19:56:22 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/yang-pr-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection in Dynamic Graphs via Transformer</title>
+      <link>https://shiruipan.github.io/publication/tkde-liu-21/</link>
+      <pubDate>Wed, 27 Oct 2021 15:01:58 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-liu-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>One-shot Learning-based Animal Video Segmentation</title>

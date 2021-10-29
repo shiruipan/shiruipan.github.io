@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/yixin-liu/</link>
       <atom:link href="https://shiruipan.github.io/authors/yixin-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yixin Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Oct 2021 15:01:58 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/yixin-liu/avatar_hua0d4d4b24f4da3a102e4452ac738b95f_101461_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yixin Liu</title>
       <link>https://shiruipan.github.io/authors/yixin-liu/</link>
     </image>
+    
+    <item>
+      <title>Anomaly Detection in Dynamic Graphs via Transformer</title>
+      <link>https://shiruipan.github.io/publication/tkde-liu-21/</link>
+      <pubDate>Wed, 27 Oct 2021 15:01:58 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-liu-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning</title>

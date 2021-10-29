@@ -33,6 +33,38 @@
     </item>
     
     <item>
+      <title>Discrete Embedding for Attributed Graphs</title>
+      <link>https://shiruipan.github.io/publication/yang-pr-22/</link>
+      <pubDate>Sat, 22 Oct 2022 19:56:22 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/yang-pr-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation</title>
+      <link>https://shiruipan.github.io/publication/asiaccs-22-wu/</link>
+      <pubDate>Mon, 30 May 2022 19:38:03 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/asiaccs-22-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Human Mobility via Graph Convolutional Dual-attentive Networks</title>
+      <link>https://shiruipan.github.io/publication/wsdm-21-dang/</link>
+      <pubDate>Sun, 27 Feb 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/wsdm-21-dang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection in Dynamic Graphs via Transformer</title>
+      <link>https://shiruipan.github.io/publication/tkde-liu-21/</link>
+      <pubDate>Wed, 27 Oct 2021 15:01:58 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-liu-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels</title>
       <link>https://shiruipan.github.io/publication/neurips-21-wan/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
