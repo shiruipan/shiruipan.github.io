@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linhua Dong | Shirui Pan</title>
-    <link>https://shiruipan.github.io/authors/linhua-dong/</link>
-      <atom:link href="https://shiruipan.github.io/authors/linhua-dong/index.xml" rel="self" type="application/rss+xml" />
-    <description>Linhua Dong</description>
+    <title>Ying Sha | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/ying-sha/</link>
+      <atom:link href="https://shiruipan.github.io/authors/ying-sha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ying Sha</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Linhua Dong</title>
-      <link>https://shiruipan.github.io/authors/linhua-dong/</link>
+      <title>Ying Sha</title>
+      <link>https://shiruipan.github.io/authors/ying-sha/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://shiruipan.github.io/publication/aaai-22-wang/</link>
       <pubDate>Tue, 22 Feb 2022 09:36:17 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/aaai-22-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hypergraph Convolutional Network for Group Recommendation</title>
-      <link>https://shiruipan.github.io/publication/icdm-21-jia/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-21-jia/</guid>
       <description></description>
     </item>
     
