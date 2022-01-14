@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lin Li | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/lin-li/</link>
+      <atom:link href="https://shiruipan.github.io/authors/lin-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lin Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 09:36:17 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Lin Li</title>
+      <link>https://shiruipan.github.io/authors/lin-li/</link>
+    </image>
+    
+    <item>
+      <title>Dual Space Graph Contrastive Learning</title>
+      <link>https://shiruipan.github.io/publication/www-22-yang/</link>
+      <pubDate>Mon, 25 Apr 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-22-yang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

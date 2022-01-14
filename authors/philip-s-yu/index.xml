@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/philip-s-yu/</link>
       <atom:link href="https://shiruipan.github.io/authors/philip-s-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Philip S Yu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 09:36:04 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Philip S Yu</title>
       <link>https://shiruipan.github.io/authors/philip-s-yu/</link>
     </image>
+    
+    <item>
+      <title>Dual Space Graph Contrastive Learning</title>
+      <link>https://shiruipan.github.io/publication/www-22-yang/</link>
+      <pubDate>Mon, 25 Apr 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-22-yang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph self-supervised learning: A survey</title>
