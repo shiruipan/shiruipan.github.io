@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/shirui-pan/</link>
       <atom:link href="https://shiruipan.github.io/authors/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 19:38:03 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/shirui-pan/avatar_hu85d38fc0f5ccf75a7cf297e042aebde1_1067481_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/authors/shirui-pan/</link>
     </image>
+    
+    <item>
+      <title>Reinforced, Incremental and Cross-lingual Event Detection From Social Messages</title>
+      <link>https://shiruipan.github.io/publication/tpami-22-peng/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tpami-22-peng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation</title>

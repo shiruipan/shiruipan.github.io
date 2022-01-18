@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuwei Cao | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/yuwei-cao/</link>
+      <atom:link href="https://shiruipan.github.io/authors/yuwei-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuwei Cao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuwei Cao</title>
+      <link>https://shiruipan.github.io/authors/yuwei-cao/</link>
+    </image>
+    
+    <item>
+      <title>Reinforced, Incremental and Cross-lingual Event Detection From Social Messages</title>
+      <link>https://shiruipan.github.io/publication/tpami-22-peng/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tpami-22-peng/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
