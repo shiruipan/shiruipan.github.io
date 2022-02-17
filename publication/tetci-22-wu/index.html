@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Graph embedding aims to transfer a graph into vectors to facilitate subsequent graph-analytics tasks like link prediction and graph clustering. Most approaches on graph embedding focus on preserving the graph structure or minimizing the reconstruction errors for graph data. They have mostly overlooked the embedding distribution of the latent codes, which unfortunately may lead to inferior representation in many cases. In this article, we present a novel adversarially regularized framework for graph embedding. By employing the graph convolutional network as an encoder, our framework embeds the topological information and node content into a vector representation, from which a graph decoder is further built to reconstruct the input graph. The adversarial training principle is applied to enforce our latent codes to match a prior Gaussian or uniform distribution. Based on this framework, we derive two variants of the adversarial models, the adversarially regularized graph autoencoder (ARGA) and its variational version, and adversarially regularized variational graph autoencoder (ARVGA), to learn the graph embedding effectively. We also exploit other potential variations of ARGA and ARVGA to get a deeper understanding of our designs. Experimental results that compared 12 algorithms for link prediction and 20 algorithms for graph clustering validate our solutions." />
+  <meta name="description" content="Graph convolutional networks (GCNs) are important techniques for many graph related analytics tasks. To date, most GCNs are designed for a single domain (graph) and therefore incapable of transferring knowledge from/to different domains (graphs), due to the inherent challenges in both graph representation learning and domain adaptation across graph domains. This paper proposes a novel Graph Contrastive Learning Network (GCLN) for unsupervised domain adaptive graph learning. The key innovation is to enforce attraction and repulsion forces within each single graph domain, and across two graph domains. Within each graph, an attraction force encourages local patch node features to be similar to global representation of the entire graph, whereas a repulsion force will repel node features so they can separate network from its permutations (i.e.  domain-specific graph contrastive learning). Across two graph domains, an attraction force encourages node features from two domains to be largely consistent, whereas a repulsion force ensures features are discriminative to differentiate graph domains (i.e. cross-domain graph contrastive learning). The within- and cross-domain graph contrastive learning is carried out by optimizing an objective function, which combines source classifier loss, domain classifier loss, target classifier loss, domain-specific contrastive loss, and cross-domain contrastive loss. As a result, feature learning from graphs are facilitated using knowledge transferred between graphs. Experiments on real-world datasets demonstrate that our method outperforms state-of-the-art graph neural network algorithms." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/publication/tcyb-2019-pan/" />
+  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/publication/tetci-22-wu/" />
 
   
 
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://shiruipan.github.io/publication/tcyb-2019-pan/" />
+  <link rel="canonical" href="https://shiruipan.github.io/publication/tetci-22-wu/" />
 
   
   
@@ -293,18 +293,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Shirui Pan" />
-  <meta property="og:url" content="https://shiruipan.github.io/publication/tcyb-2019-pan/" />
-  <meta property="og:title" content="Learning Graph Embedding With Adversarial Training Methods | Shirui Pan" />
-  <meta property="og:description" content="Graph embedding aims to transfer a graph into vectors to facilitate subsequent graph-analytics tasks like link prediction and graph clustering. Most approaches on graph embedding focus on preserving the graph structure or minimizing the reconstruction errors for graph data. They have mostly overlooked the embedding distribution of the latent codes, which unfortunately may lead to inferior representation in many cases. In this article, we present a novel adversarially regularized framework for graph embedding. By employing the graph convolutional network as an encoder, our framework embeds the topological information and node content into a vector representation, from which a graph decoder is further built to reconstruct the input graph. The adversarial training principle is applied to enforce our latent codes to match a prior Gaussian or uniform distribution. Based on this framework, we derive two variants of the adversarial models, the adversarially regularized graph autoencoder (ARGA) and its variational version, and adversarially regularized variational graph autoencoder (ARVGA), to learn the graph embedding effectively. We also exploit other potential variations of ARGA and ARVGA to get a deeper understanding of our designs. Experimental results that compared 12 algorithms for link prediction and 20 algorithms for graph clustering validate our solutions." /><meta property="og:image" content="https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://shiruipan.github.io/publication/tetci-22-wu/" />
+  <meta property="og:title" content="Attraction and Repulsion: Unsupervised Domain Adaptive Graph Contrastive Learning Network | Shirui Pan" />
+  <meta property="og:description" content="Graph convolutional networks (GCNs) are important techniques for many graph related analytics tasks. To date, most GCNs are designed for a single domain (graph) and therefore incapable of transferring knowledge from/to different domains (graphs), due to the inherent challenges in both graph representation learning and domain adaptation across graph domains. This paper proposes a novel Graph Contrastive Learning Network (GCLN) for unsupervised domain adaptive graph learning. The key innovation is to enforce attraction and repulsion forces within each single graph domain, and across two graph domains. Within each graph, an attraction force encourages local patch node features to be similar to global representation of the entire graph, whereas a repulsion force will repel node features so they can separate network from its permutations (i.e.  domain-specific graph contrastive learning). Across two graph domains, an attraction force encourages node features from two domains to be largely consistent, whereas a repulsion force ensures features are discriminative to differentiate graph domains (i.e. cross-domain graph contrastive learning). The within- and cross-domain graph contrastive learning is carried out by optimizing an objective function, which combines source classifier loss, domain classifier loss, target classifier loss, domain-specific contrastive loss, and cross-domain contrastive loss. As a result, feature learning from graphs are facilitated using knowledge transferred between graphs. Experiments on real-world datasets demonstrate that our method outperforms state-of-the-art graph neural network algorithms." /><meta property="og:image" content="https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2019-09-05T12:15:49&#43;00:00"
+        content="2022-02-10T09:36:17&#43;11:00"
       />
     
-    <meta property="article:modified_time" content="2019-09-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-05-10T09:36:17&#43;11:00">
   
 
   
@@ -326,16 +326,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://shiruipan.github.io/publication/tcyb-2019-pan/"
+    "@id": "https://shiruipan.github.io/publication/tetci-22-wu/"
   },
-  "headline": "Learning Graph Embedding With Adversarial Training Methods",
+  "headline": "Attraction and Repulsion: Unsupervised Domain Adaptive Graph Contrastive Learning Network",
   
-  "datePublished": "2019-09-05T12:15:49Z",
-  "dateModified": "2019-09-01T00:00:00Z",
+  "datePublished": "2022-02-10T09:36:17+11:00",
+  "dateModified": "2022-05-10T09:36:17+11:00",
   
   "author": {
     "@type": "Person",
-    "name": "Shirui Pan"
+    "name": "Man Wu"
   },
   
   "publisher": {
@@ -346,7 +346,7 @@
       "url": "https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Graph embedding aims to transfer a graph into vectors to facilitate subsequent graph-analytics tasks like link prediction and graph clustering. Most approaches on graph embedding focus on preserving the graph structure or minimizing the reconstruction errors for graph data. They have mostly overlooked the embedding distribution of the latent codes, which unfortunately may lead to inferior representation in many cases. In this article, we present a novel adversarially regularized framework for graph embedding. By employing the graph convolutional network as an encoder, our framework embeds the topological information and node content into a vector representation, from which a graph decoder is further built to reconstruct the input graph. The adversarial training principle is applied to enforce our latent codes to match a prior Gaussian or uniform distribution. Based on this framework, we derive two variants of the adversarial models, the adversarially regularized graph autoencoder (ARGA) and its variational version, and adversarially regularized variational graph autoencoder (ARVGA), to learn the graph embedding effectively. We also exploit other potential variations of ARGA and ARVGA to get a deeper understanding of our designs. Experimental results that compared 12 algorithms for link prediction and 20 algorithms for graph clustering validate our solutions."
+  "description": "Graph convolutional networks (GCNs) are important techniques for many graph related analytics tasks. To date, most GCNs are designed for a single domain (graph) and therefore incapable of transferring knowledge from/to different domains (graphs), due to the inherent challenges in both graph representation learning and domain adaptation across graph domains. This paper proposes a novel Graph Contrastive Learning Network (GCLN) for unsupervised domain adaptive graph learning. The key innovation is to enforce attraction and repulsion forces within each single graph domain, and across two graph domains. Within each graph, an attraction force encourages local patch node features to be similar to global representation of the entire graph, whereas a repulsion force will repel node features so they can separate network from its permutations (i.e.  domain-specific graph contrastive learning). Across two graph domains, an attraction force encourages node features from two domains to be largely consistent, whereas a repulsion force ensures features are discriminative to differentiate graph domains (i.e. cross-domain graph contrastive learning). The within- and cross-domain graph contrastive learning is carried out by optimizing an objective function, which combines source classifier loss, domain classifier loss, target classifier loss, domain-specific contrastive loss, and cross-domain contrastive loss. As a result, feature learning from graphs are facilitated using knowledge transferred between graphs. Experiments on real-world datasets demonstrate that our method outperforms state-of-the-art graph neural network algorithms."
 }
 </script>
 
@@ -362,11 +362,11 @@
 
 
 
-  <title>Learning Graph Embedding With Adversarial Training Methods | Shirui Pan</title>
+  <title>Attraction and Repulsion: Unsupervised Domain Adaptive Graph Contrastive Learning Network | Shirui Pan</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="7ab17d089e4b1316e6f263fe75bbc5ae" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f09242162fd5d2a948509c973150c59b" >
 
   
   
@@ -917,7 +917,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Learning Graph Embedding With Adversarial Training Methods</h1>
+  <h1>Attraction and Repulsion: Unsupervised Domain Adaptive Graph Contrastive Learning Network</h1>
 
   
 
@@ -934,13 +934,10 @@
   <div>
     
 
-  <span class="author-highlighted">
+  <span >
+      <a href="/authors/man-wu/">Man Wu</a></span>, <span class="author-highlighted">
       <a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span >
-      <a href="/authors/ruiqi-hu/">Ruiqi Hu</a></span>, <span >
-      <a href="/authors/sai-fu-fung/">Sai Fu Fung</a></span>, <span >
-      <a href="/authors/guodong-long/">Guodong Long</a></span>, <span >
-      <a href="/authors/jing-jiang/">Jing Jiang</a></span>, <span >
-      <a href="/authors/chengqi-zhang/">Chengqi Zhang</a></span>
+      <a href="/authors/xingquan-zhu/">Xingquan Zhu</a></span>
   </div>
   
   
@@ -951,7 +948,7 @@
     
       
     
-    September 2019
+    May 2022
   </span>
   
 
@@ -976,52 +973,6 @@
 
 
 
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="/publication/tcyb-2019-pan/tcyb-2019-pan.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/tcyb-2019-pan/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1109/TCYB.2019.2932096" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-</div>
-
 
   
 </div>
@@ -1032,7 +983,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Graph embedding aims to transfer a graph into vectors to facilitate subsequent graph-analytics tasks like link prediction and graph clustering. Most approaches on graph embedding focus on preserving the graph structure or minimizing the reconstruction errors for graph data. They have mostly overlooked the embedding distribution of the latent codes, which unfortunately may lead to inferior representation in many cases. In this article, we present a novel adversarially regularized framework for graph embedding. By employing the graph convolutional network as an encoder, our framework embeds the topological information and node content into a vector representation, from which a graph decoder is further built to reconstruct the input graph. The adversarial training principle is applied to enforce our latent codes to match a prior Gaussian or uniform distribution. Based on this framework, we derive two variants of the adversarial models, the adversarially regularized graph autoencoder (ARGA) and its variational version, and adversarially regularized variational graph autoencoder (ARVGA), to learn the graph embedding effectively. We also exploit other potential variations of ARGA and ARVGA to get a deeper understanding of our designs. Experimental results that compared 12 algorithms for link prediction and 20 algorithms for graph clustering validate our solutions.</p>
+    <p class="pub-abstract">Graph convolutional networks (GCNs) are important techniques for many graph related analytics tasks. To date, most GCNs are designed for a single domain (graph) and therefore incapable of transferring knowledge from/to different domains (graphs), due to the inherent challenges in both graph representation learning and domain adaptation across graph domains. This paper proposes a novel Graph Contrastive Learning Network (GCLN) for unsupervised domain adaptive graph learning. The key innovation is to enforce attraction and repulsion forces within each single graph domain, and across two graph domains. Within each graph, an attraction force encourages local patch node features to be similar to global representation of the entire graph, whereas a repulsion force will repel node features so they can separate network from its permutations (i.e.  domain-specific graph contrastive learning). Across two graph domains, an attraction force encourages node features from two domains to be largely consistent, whereas a repulsion force ensures features are discriminative to differentiate graph domains (i.e. cross-domain graph contrastive learning). The within- and cross-domain graph contrastive learning is carried out by optimizing an objective function, which combines source classifier loss, domain classifier loss, target classifier loss, domain-specific contrastive loss, and cross-domain contrastive loss. As a result, feature learning from graphs are facilitated using knowledge transferred between graphs. Experiments on real-world datasets demonstrate that our method outperforms state-of-the-art graph neural network algorithms.</p>
     
 
     
@@ -1060,7 +1011,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>IEEE Transactions on Cybernetics</em></div>
+          <div class="col-12 col-md-9">IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -1081,17 +1032,9 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/adversarial-regularization/">Adversarial regularization</a>
-  
-  <a class="badge badge-light" href="/tag/graph-autoencoder/">graph autoencoder</a>
-  
-  <a class="badge badge-light" href="/tag/graph-clustering/">Graph clustering</a>
-  
-  <a class="badge badge-light" href="/tag/graph-embedding/">graph embedding</a>
-  
-  <a class="badge badge-light" href="/tag/link-prediction/">link prediction</a>
-  
   <a class="badge badge-light" href="/tag/graph-neural-networks/">Graph Neural Networks</a>
+  
+  <a class="badge badge-light" href="/tag/domain-adaptation/">Domain Adaptation</a>
   
 </div>
 
@@ -1108,7 +1051,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://shiruipan.github.io/publication/tcyb-2019-pan/&amp;text=Learning%20Graph%20Embedding%20With%20Adversarial%20Training%20Methods" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://shiruipan.github.io/publication/tetci-22-wu/&amp;text=Attraction%20and%20Repulsion:%20Unsupervised%20Domain%20Adaptive%20Graph%20Contrastive%20Learning%20Network" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1121,7 +1064,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://shiruipan.github.io/publication/tcyb-2019-pan/&amp;t=Learning%20Graph%20Embedding%20With%20Adversarial%20Training%20Methods" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://shiruipan.github.io/publication/tetci-22-wu/&amp;t=Attraction%20and%20Repulsion:%20Unsupervised%20Domain%20Adaptive%20Graph%20Contrastive%20Learning%20Network" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1134,7 +1077,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Learning%20Graph%20Embedding%20With%20Adversarial%20Training%20Methods&amp;body=https://shiruipan.github.io/publication/tcyb-2019-pan/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Attraction%20and%20Repulsion:%20Unsupervised%20Domain%20Adaptive%20Graph%20Contrastive%20Learning%20Network&amp;body=https://shiruipan.github.io/publication/tetci-22-wu/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1147,7 +1090,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://shiruipan.github.io/publication/tcyb-2019-pan/&amp;title=Learning%20Graph%20Embedding%20With%20Adversarial%20Training%20Methods" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://shiruipan.github.io/publication/tetci-22-wu/&amp;title=Attraction%20and%20Repulsion:%20Unsupervised%20Domain%20Adaptive%20Graph%20Contrastive%20Learning%20Network" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1160,7 +1103,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Learning%20Graph%20Embedding%20With%20Adversarial%20Training%20Methods%20https://shiruipan.github.io/publication/tcyb-2019-pan/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Attraction%20and%20Repulsion:%20Unsupervised%20Domain%20Adaptive%20Graph%20Contrastive%20Learning%20Network%20https://shiruipan.github.io/publication/tetci-22-wu/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1173,7 +1116,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://shiruipan.github.io/publication/tcyb-2019-pan/&amp;title=Learning%20Graph%20Embedding%20With%20Adversarial%20Training%20Methods" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://shiruipan.github.io/publication/tetci-22-wu/&amp;title=Attraction%20and%20Repulsion:%20Unsupervised%20Domain%20Adaptive%20Graph%20Contrastive%20Learning%20Network" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1192,6 +1135,34 @@
 
 
   
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/man-wu/"><img class="avatar mr-3 avatar-circle" src="/authors/man-wu/avatar_hu1fecbfdec68d71264b8c411dd497dac5_1019231_270x270_fill_q75_lanczos_center.jpeg" alt="Man Wu"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/man-wu/">Man Wu</a></h5>
+      <h6 class="card-subtitle">PhD Student @ FAU (2020-)</h6>
+      <p class="card-text">My research interests include data mining, machine learning, and graph  analysis.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
   
     
 
@@ -1302,52 +1273,6 @@
 
 
 
-  
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-      
-      <a href="/authors/ruiqi-hu/"><img class="avatar mr-3 avatar-circle" src="/authors/ruiqi-hu/avatar_hu9c3cf836328ded33c6cee6b80523c6c8_74172_270x270_fill_q75_lanczos_center.jpg" alt="Ruiqi Hu"></a>
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="/authors/ruiqi-hu/">Ruiqi Hu</a></h5>
-      <h6 class="card-subtitle">PhD</h6>
-      <p class="card-text">My research interests include Graph representation, Machine Learning, Graph Neural Networks.</p>
-      <ul class="network-icon" aria-hidden="true">
-  
-</ul>
-
-    </div>
-  </div>
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
-
-  
-    
-
-
-
 
   
 
@@ -1370,9 +1295,9 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/wang-mgae-2017/">MGAE: marginalized graph autoencoder for graph clustering</a></li>
+      <li><a href="/publication/www-2020-wu/">Unsupervised Domain Adaptive Graph Convolutional Networks</a></li>
       
-      <li><a href="/publication/tetci-22-wu/">Attraction and Repulsion: Unsupervised Domain Adaptive Graph Contrastive Learning Network</a></li>
+      <li><a href="/publication/icdm-19-wu/">Domain-Adversarial Graph Neural Networks for Text Classification</a></li>
       
       <li><a href="/publication/tpami-22-peng-copy/">Reinforced, Incremental and Cross-lingual Event Detection From Social Messages</a></li>
       
