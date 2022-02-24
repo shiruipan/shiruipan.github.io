@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongwon Kelvin Ryu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/dongwon-kelvin-ryu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/dongwon-kelvin-ryu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dongwon Kelvin Ryu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 09:36:17 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dongwon Kelvin Ryu</title>
+      <link>https://shiruipan.github.io/authors/dongwon-kelvin-ryu/</link>
+    </image>
+    
+    <item>
+      <title>Fire Burns, Swords Cut: Commonsense Inductive Bias for Exploration in Text-based Games</title>
+      <link>https://shiruipan.github.io/publication/acl-22-ryu/</link>
+      <pubDate>Fri, 27 May 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/acl-22-ryu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
