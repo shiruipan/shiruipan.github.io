@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visual reasoning | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/visual-reasoning/</link>
+      <atom:link href="https://shiruipan.github.io/tag/visual-reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <description>visual reasoning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 09:36:17 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>visual reasoning</title>
+      <link>https://shiruipan.github.io/tag/visual-reasoning/</link>
+    </image>
+    
+    <item>
+      <title>A Probabilistic Graphical Model Based on Neural-symbolic Reasoning for Visual Relationship Detection</title>
+      <link>https://shiruipan.github.io/publication/cvpr-22-yu/</link>
+      <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-22-yu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

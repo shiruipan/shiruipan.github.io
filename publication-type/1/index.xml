@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/publication-type/1/</link>
       <atom:link href="https://shiruipan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 19:38:03 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://shiruipan.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A Probabilistic Graphical Model Based on Neural-symbolic Reasoning for Visual Relationship Detection</title>
+      <link>https://shiruipan.github.io/publication/cvpr-22-yu/</link>
+      <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-22-yu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation</title>

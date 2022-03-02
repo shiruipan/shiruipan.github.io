@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongran Yu | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/dongran-yu/</link>
+      <atom:link href="https://shiruipan.github.io/authors/dongran-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dongran Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 09:36:17 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/authors/dongran-yu/avatar_hu2f1e02e515e351c311ec896043222feb_199358_270x270_fill_lanczos_center_3.png</url>
+      <title>Dongran Yu</title>
+      <link>https://shiruipan.github.io/authors/dongran-yu/</link>
+    </image>
+    
+    <item>
+      <title>A Probabilistic Graphical Model Based on Neural-symbolic Reasoning for Visual Relationship Detection</title>
+      <link>https://shiruipan.github.io/publication/cvpr-22-yu/</link>
+      <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-22-yu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
