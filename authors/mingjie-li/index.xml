@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/mingjie-li/</link>
       <atom:link href="https://shiruipan.github.io/authors/mingjie-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingjie Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/mingjie-li/avatar_huc474b381b0e8bb54b3540ef5dac1cb48_312336_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Mingjie Li</title>
       <link>https://shiruipan.github.io/authors/mingjie-li/</link>
     </image>
+    
+    <item>
+      <title>Cross-modal Clinical Graph Transformer For Ophthalmic Report Generation</title>
+      <link>https://shiruipan.github.io/publication/cvpr-22-li/</link>
+      <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-22-li/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

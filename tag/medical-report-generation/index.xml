@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medical report generation | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/medical-report-generation/</link>
+      <atom:link href="https://shiruipan.github.io/tag/medical-report-generation/index.xml" rel="self" type="application/rss+xml" />
+    <description>medical report generation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 09:36:17 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>medical report generation</title>
+      <link>https://shiruipan.github.io/tag/medical-report-generation/</link>
+    </image>
+    
+    <item>
+      <title>BaLeNAS: Differentiable Architecture Search via Bayesian Learning Rule</title>
+      <link>https://shiruipan.github.io/publication/cvpr-22-zhang/</link>
+      <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-22-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modal Clinical Graph Transformer For Ophthalmic Report Generation</title>
+      <link>https://shiruipan.github.io/publication/cvpr-22-li/</link>
+      <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-22-li/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/authors/xiaojun-chang/</link>
       <atom:link href="https://shiruipan.github.io/authors/xiaojun-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaojun Chang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiaojun Chang</title>
       <link>https://shiruipan.github.io/authors/xiaojun-chang/</link>
     </image>
+    
+    <item>
+      <title>BaLeNAS: Differentiable Architecture Search via Bayesian Learning Rule</title>
+      <link>https://shiruipan.github.io/publication/cvpr-22-zhang/</link>
+      <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-22-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modal Clinical Graph Transformer For Ophthalmic Report Generation</title>
+      <link>https://shiruipan.github.io/publication/cvpr-22-li/</link>
+      <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/cvpr-22-li/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>iDARTS: Differentiable Architecture Search with Stochastic Implicit Gradients</title>
