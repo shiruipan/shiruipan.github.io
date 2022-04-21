@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Deng | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/lei-deng/</link>
+      <atom:link href="https://shiruipan.github.io/authors/lei-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lei Deng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Lei Deng</title>
+      <link>https://shiruipan.github.io/authors/lei-deng/</link>
+    </image>
+    
+    <item>
+      <title>Survey on Graph Neural Network Acceleration: An Algorithmic Perspective</title>
+      <link>https://shiruipan.github.io/publication/ijcai-22-liu/</link>
+      <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-22-liu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

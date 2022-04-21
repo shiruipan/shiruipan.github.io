@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/razvan-cirstea/</link>
       <atom:link href="https://shiruipan.github.io/authors/razvan-cirstea/index.xml" rel="self" type="application/rss+xml" />
     <description>Razvan Cirstea</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 09:36:17 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Razvan Cirstea</title>
       <link>https://shiruipan.github.io/authors/razvan-cirstea/</link>
     </image>
+    
+    <item>
+      <title>Multi-Graph Fusion Networks for Urban Region Embedding</title>
+      <link>https://shiruipan.github.io/publication/ijcai-22-cirstea/</link>
+      <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-22-cirstea/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Spatio-Temporal Aware Traffic Time Series Forecasting</title>

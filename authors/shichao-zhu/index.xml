@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/shichao-zhu/</link>
       <atom:link href="https://shiruipan.github.io/authors/shichao-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shichao Zhu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/shichao-zhu/avatar_hu460e7562fe34e11fec42135b336c5284_48488_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Shichao Zhu</title>
       <link>https://shiruipan.github.io/authors/shichao-zhu/</link>
     </image>
+    
+    <item>
+      <title>Multi-Graph Fusion Networks for Urban Region Embedding</title>
+      <link>https://shiruipan.github.io/publication/ijcai-22-wu/</link>
+      <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-22-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Geometry Interaction Learning</title>
