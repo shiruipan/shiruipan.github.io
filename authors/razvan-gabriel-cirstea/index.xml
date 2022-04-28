@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tung Kieu | Shirui Pan</title>
-    <link>https://shiruipan.github.io/authors/tung-kieu/</link>
-      <atom:link href="https://shiruipan.github.io/authors/tung-kieu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tung Kieu</description>
+    <title>Razvan-Gabriel Cirstea | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/razvan-gabriel-cirstea/</link>
+      <atom:link href="https://shiruipan.github.io/authors/razvan-gabriel-cirstea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Razvan-Gabriel Cirstea</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Tung Kieu</title>
-      <link>https://shiruipan.github.io/authors/tung-kieu/</link>
+      <title>Razvan-Gabriel Cirstea</title>
+      <link>https://shiruipan.github.io/authors/razvan-gabriel-cirstea/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://shiruipan.github.io/publication/ijcai-22-cirstea/</link>
       <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/ijcai-22-cirstea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Spatio-Temporal Aware Traffic Time Series Forecasting</title>
-      <link>https://shiruipan.github.io/publication/icde-22-cirstea/</link>
-      <pubDate>Thu, 09 Jun 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/icde-22-cirstea/</guid>
       <description></description>
     </item>
     
