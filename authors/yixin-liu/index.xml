@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/yixin-liu/</link>
       <atom:link href="https://shiruipan.github.io/authors/yixin-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yixin Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 09:36:17 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 09:36:04 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/yixin-liu/avatar_hua0d4d4b24f4da3a102e4452ac738b95f_101461_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yixin Liu</title>
       <link>https://shiruipan.github.io/authors/yixin-liu/</link>
     </image>
+    
+    <item>
+      <title>Graph self-supervised learning: A survey</title>
+      <link>https://shiruipan.github.io/publication/liu-21-survey/</link>
+      <pubDate>Tue, 02 Aug 2022 09:36:04 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/liu-21-survey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Unsupervised Deep Graph Structure Learning</title>
@@ -33,14 +41,6 @@
       <link>https://shiruipan.github.io/publication/cikm-21-jin/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/publication/cikm-21-jin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph self-supervised learning: A survey</title>
-      <link>https://shiruipan.github.io/publication/liu-21-survey/</link>
-      <pubDate>Thu, 05 Aug 2021 09:36:04 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/liu-21-survey/</guid>
       <description></description>
     </item>
     

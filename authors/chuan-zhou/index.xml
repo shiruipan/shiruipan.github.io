@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/chuan-zhou/</link>
       <atom:link href="https://shiruipan.github.io/authors/chuan-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Chuan Zhou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Feb 2022 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 09:36:04 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Chuan Zhou</title>
       <link>https://shiruipan.github.io/authors/chuan-zhou/</link>
     </image>
+    
+    <item>
+      <title>Graph self-supervised learning: A survey</title>
+      <link>https://shiruipan.github.io/publication/liu-21-survey/</link>
+      <pubDate>Tue, 02 Aug 2022 09:36:04 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/liu-21-survey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Human Mobility via Graph Convolutional Dual-attentive Networks</title>
@@ -25,14 +33,6 @@
       <link>https://shiruipan.github.io/publication/cikm-21-zhang/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/publication/cikm-21-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph self-supervised learning: A survey</title>
-      <link>https://shiruipan.github.io/publication/liu-21-survey/</link>
-      <pubDate>Thu, 05 Aug 2021 09:36:04 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/liu-21-survey/</guid>
       <description></description>
     </item>
     

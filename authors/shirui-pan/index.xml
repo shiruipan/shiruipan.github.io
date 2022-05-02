@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Graph self-supervised learning: A survey</title>
+      <link>https://shiruipan.github.io/publication/liu-21-survey/</link>
+      <pubDate>Tue, 02 Aug 2022 09:36:04 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/liu-21-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning</title>
       <link>https://shiruipan.github.io/publication/ijcai-22-jin/</link>
       <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
@@ -241,14 +249,6 @@
       <link>https://shiruipan.github.io/publication/pr-wang-21/</link>
       <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/publication/pr-wang-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph self-supervised learning: A survey</title>
-      <link>https://shiruipan.github.io/publication/liu-21-survey/</link>
-      <pubDate>Thu, 05 Aug 2021 09:36:04 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/liu-21-survey/</guid>
       <description></description>
     </item>
     
