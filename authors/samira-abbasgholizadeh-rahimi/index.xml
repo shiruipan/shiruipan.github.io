@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soheila Molaei | Shirui Pan</title>
-    <link>https://shiruipan.github.io/authors/soheila-molaei/</link>
-      <atom:link href="https://shiruipan.github.io/authors/soheila-molaei/index.xml" rel="self" type="application/rss+xml" />
-    <description>Soheila Molaei</description>
+    <title>Samira Abbasgholizadeh Rahimi | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/samira-abbasgholizadeh-rahimi/</link>
+      <atom:link href="https://shiruipan.github.io/authors/samira-abbasgholizadeh-rahimi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samira Abbasgholizadeh Rahimi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Soheila Molaei</title>
-      <link>https://shiruipan.github.io/authors/soheila-molaei/</link>
+      <title>Samira Abbasgholizadeh Rahimi</title>
+      <link>https://shiruipan.github.io/authors/samira-abbasgholizadeh-rahimi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://shiruipan.github.io/publication/esaw-22-fatemi/</link>
       <pubDate>Fri, 06 May 2022 09:36:17 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/esaw-22-fatemi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Graph Representations with Maximal Cliques</title>
-      <link>https://shiruipan.github.io/publication/molaei-tnnls-21/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/molaei-tnnls-21/</guid>
       <description></description>
     </item>
     
