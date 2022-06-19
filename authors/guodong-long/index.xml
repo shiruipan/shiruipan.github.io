@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/guodong-long/</link>
       <atom:link href="https://shiruipan.github.io/authors/guodong-long/index.xml" rel="self" type="application/rss+xml" />
     <description>Guodong Long</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Guodong Long</title>
       <link>https://shiruipan.github.io/authors/guodong-long/</link>
     </image>
+    
+    <item>
+      <title>Beyond low-pass filtering: Graph convolutional networks with automatic filtering</title>
+      <link>https://shiruipan.github.io/publication/tkde-22-wu/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-22-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Neighbor-aware Embedding for Node Clustering in Attributed Graphs</title>
