@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/authors/zonghan-wu/</link>
       <atom:link href="https://shiruipan.github.io/authors/zonghan-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zonghan Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/zonghan-wu/avatar_hu713a41ccc627e316e2b09e93a98588ed_2874931_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Zonghan Wu</title>
       <link>https://shiruipan.github.io/authors/zonghan-wu/</link>
     </image>
+    
+    <item>
+      <title>Beyond low-pass filtering: Graph convolutional networks with automatic filtering</title>
+      <link>https://shiruipan.github.io/publication/tkde-22-wu/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-22-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TraverseNet: Unifying Space and Time in Message Passing for Traffic Forecasting</title>
+      <link>https://shiruipan.github.io/publication/tnnls-22-wu/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-22-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heterogeneous Graph Attention Network for Small and Medium-Sized Enterprises Bankruptcy Prediction</title>

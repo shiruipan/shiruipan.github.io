@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/george-karypis/</link>
       <atom:link href="https://shiruipan.github.io/authors/george-karypis/index.xml" rel="self" type="application/rss+xml" />
     <description>George Karypis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>George Karypis</title>
       <link>https://shiruipan.github.io/authors/george-karypis/</link>
     </image>
+    
+    <item>
+      <title>TraverseNet: Unifying Space and Time in Message Passing for Traffic Forecasting</title>
+      <link>https://shiruipan.github.io/publication/tnnls-22-wu/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-22-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</title>

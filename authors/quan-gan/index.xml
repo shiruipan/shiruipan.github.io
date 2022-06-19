@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quan Gan | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/quan-gan/</link>
+      <atom:link href="https://shiruipan.github.io/authors/quan-gan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quan Gan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Quan Gan</title>
+      <link>https://shiruipan.github.io/authors/quan-gan/</link>
+    </image>
+    
+    <item>
+      <title>TraverseNet: Unifying Space and Time in Message Passing for Traffic Forecasting</title>
+      <link>https://shiruipan.github.io/publication/tnnls-22-wu/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-22-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
