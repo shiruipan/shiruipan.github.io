@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/chaojie-li/</link>
       <atom:link href="https://shiruipan.github.io/authors/chaojie-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaojie Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 09:36:17 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Chaojie Li</title>
       <link>https://shiruipan.github.io/authors/chaojie-li/</link>
     </image>
+    
+    <item>
+      <title>Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-xin/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-xin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Best-Selling New Products in a Major Promotion Campaign through Graph Convolutional Networks</title>

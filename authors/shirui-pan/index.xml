@@ -5,12 +5,36 @@
     <link>https://shiruipan.github.io/authors/shirui-pan/</link>
       <atom:link href="https://shiruipan.github.io/authors/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/shirui-pan/avatar_hu85d38fc0f5ccf75a7cf297e042aebde1_1067481_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/authors/shirui-pan/</link>
     </image>
+    
+    <item>
+      <title>A Dynamic Variational Framework for Open-World Node Classification in Structured Sequences</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-zhang/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-xin/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-xin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unifying Graph Contrastive Learning with Flexible Contextual Scopes</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-yizhen/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-yizhen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Empirical Survey on Long Document Summarization: Datasets, Models and Metrics</title>

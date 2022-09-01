@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chunyang Chen | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/chunyang-chen/</link>
+      <atom:link href="https://shiruipan.github.io/authors/chunyang-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chunyang Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Chunyang Chen</title>
+      <link>https://shiruipan.github.io/authors/chunyang-chen/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-xin/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-xin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/vincent-cs-lee/</link>
       <atom:link href="https://shiruipan.github.io/authors/vincent-cs-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Vincent CS Lee</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Oct 2021 15:01:58 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Vincent CS Lee</title>
       <link>https://shiruipan.github.io/authors/vincent-cs-lee/</link>
     </image>
+    
+    <item>
+      <title>Unifying Graph Contrastive Learning with Flexible Contextual Scopes</title>
+      <link>https://shiruipan.github.io/publication/icdm-22-yizhen/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icdm-22-yizhen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anomaly Detection in Dynamic Graphs via Transformer</title>
