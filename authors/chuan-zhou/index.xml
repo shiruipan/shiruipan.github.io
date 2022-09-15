@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Pseudo-Riemannian Graph Convolutional Networks</title>
+      <link>https://shiruipan.github.io/publication/neurips-22-xiong/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-22-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing</title>
       <link>https://shiruipan.github.io/publication/icdm-22-xin/</link>
-      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/icdm-22-xin/</guid>
       <description></description>
     </item>

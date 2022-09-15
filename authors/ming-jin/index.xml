@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/ming-jin/</link>
       <atom:link href="https://shiruipan.github.io/authors/ming-jin/index.xml" rel="self" type="application/rss+xml" />
     <description>Ming Jin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 09:36:04 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/ming-jin/avatar_hu2df373187a978a3f0cf0ab99896fa923_910889_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ming Jin</title>
       <link>https://shiruipan.github.io/authors/ming-jin/</link>
     </image>
+    
+    <item>
+      <title>Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs</title>
+      <link>https://shiruipan.github.io/publication/neurips-22-jin/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-22-jin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph self-supervised learning: A survey</title>

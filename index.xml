@@ -33,9 +33,33 @@
     </item>
     
     <item>
+      <title>Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs</title>
+      <link>https://shiruipan.github.io/publication/neurips-22-jin/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-22-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudo-Riemannian Graph Convolutional Networks</title>
+      <link>https://shiruipan.github.io/publication/neurips-22-xiong/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-22-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination</title>
+      <link>https://shiruipan.github.io/publication/neurips-22-zheng/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-22-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Dynamic Variational Framework for Open-World Node Classification in Structured Sequences</title>
       <link>https://shiruipan.github.io/publication/icdm-22-zhang/</link>
-      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/icdm-22-zhang/</guid>
       <description></description>
     </item>
@@ -43,7 +67,7 @@
     <item>
       <title>Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing</title>
       <link>https://shiruipan.github.io/publication/icdm-22-xin/</link>
-      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/icdm-22-xin/</guid>
       <description></description>
     </item>
@@ -51,7 +75,7 @@
     <item>
       <title>Unifying Graph Contrastive Learning with Flexible Contextual Scopes</title>
       <link>https://shiruipan.github.io/publication/icdm-22-yizhen/</link>
-      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/icdm-22-yizhen/</guid>
       <description></description>
     </item>

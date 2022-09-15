@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination</title>
+      <link>https://shiruipan.github.io/publication/neurips-22-zheng/</link>
+      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-22-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unifying Graph Contrastive Learning with Flexible Contextual Scopes</title>
       <link>https://shiruipan.github.io/publication/icdm-22-yizhen/</link>
-      <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/icdm-22-yizhen/</guid>
       <description></description>
     </item>
