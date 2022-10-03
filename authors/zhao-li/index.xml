@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/zhao-li/</link>
       <atom:link href="https://shiruipan.github.io/authors/zhao-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhao Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 09:36:47 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Zhao Li</title>
       <link>https://shiruipan.github.io/authors/zhao-li/</link>
     </image>
+    
+    <item>
+      <title>Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming</title>
+      <link>https://shiruipan.github.io/publication/tnnls-22-zheng/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-22-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cyclic label propagation for graph semi-supervised learning</title>

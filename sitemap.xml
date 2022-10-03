@@ -126,6 +126,8 @@
   <url>
     <loc>https://shiruipan.github.io/tag/language-models/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://shiruipan.github.io/authors/ming-li/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://shiruipan.github.io/authors/ming-liu/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/tag/neural-networks/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
@@ -138,9 +140,13 @@
   <url>
     <loc>https://shiruipan.github.io/authors/ruitong-zhang/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://shiruipan.github.io/tag/self-supervised-learning/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://shiruipan.github.io/authors/shaoning-li/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/tag/social-event-detection/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://shiruipan.github.io/publication/tnnls-22-zheng/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/tag/traffic-forecasting/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -154,7 +160,13 @@
   <url>
     <loc>https://shiruipan.github.io/authors/yuwei-cao/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://shiruipan.github.io/authors/zhao-li/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://shiruipan.github.io/authors/zonghan-wu/</loc><lastmod>2022-11-25T09:36:17+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://shiruipan.github.io/post/</loc><lastmod>2022-09-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://shiruipan.github.io/post/bio_cn/</loc><lastmod>2022-09-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/chengjin-xu/</loc><lastmod>2022-08-14T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -170,15 +182,9 @@
   <url>
     <loc>https://shiruipan.github.io/publication/liu-21-survey/</loc><lastmod>2022-08-02T09:36:04+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://shiruipan.github.io/tag/self-supervised-learning/</loc><lastmod>2022-08-02T09:36:04+11:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://shiruipan.github.io/authors/yixin-liu/</loc><lastmod>2022-08-02T09:36:04+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://shiruipan.github.io/post/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://shiruipan.github.io/post/recruitment/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://shiruipan.github.io/post/bio_cn/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/bin-yang/</loc><lastmod>2022-07-23T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -497,8 +503,6 @@
     <loc>https://shiruipan.github.io/authors/jiajun-bu/</loc><lastmod>2021-06-24T09:36:47+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/jianliang-gao/</loc><lastmod>2021-06-24T09:36:47+11:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://shiruipan.github.io/authors/zhao-li/</loc><lastmod>2021-06-24T09:36:47+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/zhen-zhang/</loc><lastmod>2021-06-24T09:36:47+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

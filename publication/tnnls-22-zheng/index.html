@@ -64,11 +64,10 @@
   
     
   
-  <meta name="description" content="潘世瑞，澳大利亚基金委杰出青年 ARC Future Fellow （2021年全澳信息学部仅5人入选），格里菲斯大学（Griffith University） 正教授（Full Professor）。连续两年入选全球AAAI/IJCAI最具影响力学者（2022澳洲仅3人入选），入选全球前2%顶尖科学家榜单 （2021）， 获得2021蒙纳士大学信息技术学院研究卓越奖（早期研究者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用11,000&#43;，H指数（H-Index) 43。主要研究方向为数据挖掘、机器学习、图深度学习。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助，累计金额170万澳元。
-潘世瑞长期从事图数据挖掘与学习研究，其领导的实验室 GRAND Lab 包括博士后、博士生、研究生近20人，是澳大利亚最大的专注于图机器学习的实验室。GRAND Lab在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达3000&#43;。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。" />
+  <meta name="description" content="Graph representation learning (GRL) is critical for graph-structured data analysis. However, most of the existing graph neural networks (GNNs) heavily rely on labeling information, which is normally expensive to obtain in the real world. Existing unsupervised GRL methods suffer from certain limitations, such as the heavy reliance on monotone contrastiveness and limited scalability. To overcome the aforementioned problems, in light of the recent advancements in graph contrastive learning, we introduce a novel self-supervised graph representation learning algorithm via Graph Contrastive Adjusted Zooming, namely G-Zoom, to learn node representations by leveraging the proposed adjusted zooming scheme. Specifically, this mechanism enables G-Zoom to explore and extract self-supervision signals from a graph from multiple scales: micro (i.e., node-level), meso (i.e., neighbourhood-level), and macro (i.e., subgraph-level). Firstly, we generate two augmented views of the input graph via two different graph augmentations. Then, we establish three different contrastiveness on the above three scales progressively, from node, neighbouring, to subgraph level, where we maximize the agreement between graph representations across scales. While we can extract valuable clues from a given graph on the micro and macro perspectives, the neighbourhood-level contrastiveness offers G-Zoom the capability of a customizable option based on our adjusted zooming scheme to manually choose an optimal viewpoint that lies between the micro and macro perspectives to better understand the graph data. Additionally, to make our model scalable to large graphs, we employ a parallel graph diffusion approach to decouple model training from the graph size. We have conducted extensive experiments on real-world datasets, and the results demonstrate that our proposed model outperforms state-of-the-art methods consistently." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/post/bio_cn/" />
+  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/publication/tnnls-22-zheng/" />
 
   
   
@@ -283,7 +282,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://shiruipan.github.io/post/bio_cn/" />
+  <link rel="canonical" href="https://shiruipan.github.io/publication/tnnls-22-zheng/" />
 
   
   
@@ -306,19 +305,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Shirui Pan" />
-  <meta property="og:url" content="https://shiruipan.github.io/post/bio_cn/" />
-  <meta property="og:title" content="潘世瑞（中文简介） | Shirui Pan" />
-  <meta property="og:description" content="潘世瑞，澳大利亚基金委杰出青年 ARC Future Fellow （2021年全澳信息学部仅5人入选），格里菲斯大学（Griffith University） 正教授（Full Professor）。连续两年入选全球AAAI/IJCAI最具影响力学者（2022澳洲仅3人入选），入选全球前2%顶尖科学家榜单 （2021）， 获得2021蒙纳士大学信息技术学院研究卓越奖（早期研究者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用11,000&#43;，H指数（H-Index) 43。主要研究方向为数据挖掘、机器学习、图深度学习。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助，累计金额170万澳元。
-潘世瑞长期从事图数据挖掘与学习研究，其领导的实验室 GRAND Lab 包括博士后、博士生、研究生近20人，是澳大利亚最大的专注于图机器学习的实验室。GRAND Lab在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达3000&#43;。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。" /><meta property="og:image" content="https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://shiruipan.github.io/publication/tnnls-22-zheng/" />
+  <meta property="og:title" content="Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming | Shirui Pan" />
+  <meta property="og:description" content="Graph representation learning (GRL) is critical for graph-structured data analysis. However, most of the existing graph neural networks (GNNs) heavily rely on labeling information, which is normally expensive to obtain in the real world. Existing unsupervised GRL methods suffer from certain limitations, such as the heavy reliance on monotone contrastiveness and limited scalability. To overcome the aforementioned problems, in light of the recent advancements in graph contrastive learning, we introduce a novel self-supervised graph representation learning algorithm via Graph Contrastive Adjusted Zooming, namely G-Zoom, to learn node representations by leveraging the proposed adjusted zooming scheme. Specifically, this mechanism enables G-Zoom to explore and extract self-supervision signals from a graph from multiple scales: micro (i.e., node-level), meso (i.e., neighbourhood-level), and macro (i.e., subgraph-level). Firstly, we generate two augmented views of the input graph via two different graph augmentations. Then, we establish three different contrastiveness on the above three scales progressively, from node, neighbouring, to subgraph level, where we maximize the agreement between graph representations across scales. While we can extract valuable clues from a given graph on the micro and macro perspectives, the neighbourhood-level contrastiveness offers G-Zoom the capability of a customizable option based on our adjusted zooming scheme to manually choose an optimal viewpoint that lies between the micro and macro perspectives to better understand the graph data. Additionally, to make our model scalable to large graphs, we employ a parallel graph diffusion approach to decouple model training from the graph size. We have conducted extensive experiments on real-world datasets, and the results demonstrate that our proposed model outperforms state-of-the-art methods consistently." /><meta property="og:image" content="https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-09-21T00:00:00&#43;00:00"
+        content="2022-09-30T09:36:17&#43;11:00"
       />
     
-    <meta property="article:modified_time" content="2022-09-21T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-11-25T09:36:17&#43;11:00">
   
 
   
@@ -330,8 +328,6 @@
 
 
 
-
-  
 
 
 
@@ -339,19 +335,19 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://shiruipan.github.io/post/bio_cn/"
+    "@id": "https://shiruipan.github.io/publication/tnnls-22-zheng/"
   },
-  "headline": "潘世瑞（中文简介）",
+  "headline": "Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming",
   
-  "datePublished": "2022-09-21T00:00:00Z",
-  "dateModified": "2022-09-21T00:00:00Z",
+  "datePublished": "2022-09-30T09:36:17+11:00",
+  "dateModified": "2022-11-25T09:36:17+11:00",
   
   "author": {
     "@type": "Person",
-    "name": "Shirui Pan"
+    "name": "Yizhen Zheng"
   },
   
   "publisher": {
@@ -362,7 +358,7 @@
       "url": "https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "潘世瑞，澳大利亚基金委杰出青年 ARC Future Fellow （2021年全澳信息学部仅5人入选），格里菲斯大学（Griffith University） 正教授（Full Professor）。连续两年入选全球AAAI/IJCAI最具影响力学者（2022澳洲仅3人入选），入选全球前2%顶尖科学家榜单 （2021）， 获得2021蒙纳士大学信息技术学院研究卓越奖（早期研究者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用11,000+，H指数（H-Index) 43。主要研究方向为数据挖掘、机器学习、图深度学习。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助，累计金额170万澳元。\n潘世瑞长期从事图数据挖掘与学习研究，其领导的实验室 GRAND Lab 包括博士后、博士生、研究生近20人，是澳大利亚最大的专注于图机器学习的实验室。GRAND Lab在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达3000+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。"
+  "description": "Graph representation learning (GRL) is critical for graph-structured data analysis. However, most of the existing graph neural networks (GNNs) heavily rely on labeling information, which is normally expensive to obtain in the real world. Existing unsupervised GRL methods suffer from certain limitations, such as the heavy reliance on monotone contrastiveness and limited scalability. To overcome the aforementioned problems, in light of the recent advancements in graph contrastive learning, we introduce a novel self-supervised graph representation learning algorithm via Graph Contrastive Adjusted Zooming, namely G-Zoom, to learn node representations by leveraging the proposed adjusted zooming scheme. Specifically, this mechanism enables G-Zoom to explore and extract self-supervision signals from a graph from multiple scales: micro (i.e., node-level), meso (i.e., neighbourhood-level), and macro (i.e., subgraph-level). Firstly, we generate two augmented views of the input graph via two different graph augmentations. Then, we establish three different contrastiveness on the above three scales progressively, from node, neighbouring, to subgraph level, where we maximize the agreement between graph representations across scales. While we can extract valuable clues from a given graph on the micro and macro perspectives, the neighbourhood-level contrastiveness offers G-Zoom the capability of a customizable option based on our adjusted zooming scheme to manually choose an optimal viewpoint that lies between the micro and macro perspectives to better understand the graph data. Additionally, to make our model scalable to large graphs, we employ a parallel graph diffusion approach to decouple model training from the graph size. We have conducted extensive experiments on real-world datasets, and the results demonstrate that our proposed model outperforms state-of-the-art methods consistently."
 }
 </script>
 
@@ -378,11 +374,11 @@
 
 
 
-  <title>潘世瑞（中文简介） | Shirui Pan</title>
+  <title>Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming | Shirui Pan</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="16e314dd94b5b1559c8d0dbadffa562b" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="459aae14675478ebaf0af9bd3236f299" >
 
   
   
@@ -910,7 +906,16 @@
     
     
 
-    <article class="article">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
 
   
 
@@ -931,7 +936,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>潘世瑞（中文简介）</h1>
+  <h1>Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming</h1>
 
   
 
@@ -943,6 +948,22 @@
 
   
   
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/yizhen-zheng/">Yizhen Zheng</a></span>, <span >
+      <a href="/authors/ming-jin/">Ming Jin</a></span>, <span class="author-highlighted">
+      <a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span >
+      <a href="/authors/yuan-fang-li/">Yuan-Fang Li</a></span>, <span >
+      <a href="/authors/hao-peng/">Hao Peng</a></span>, <span >
+      <a href="/authors/ming-li/">Ming Li</a></span>, <span >
+      <a href="/authors/zhao-li/">Zhao Li</a></span>
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -950,17 +971,12 @@
     
       
     
-    Sep 21, 2022
+    November, 2022
   </span>
   
 
   
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
   
 
   
@@ -977,6 +993,45 @@
 
 
 
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2111.10698" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
 
 
   
@@ -986,17 +1041,60 @@
 
   <div class="article-container">
 
-    <div class="article-style">
-      <p>潘世瑞，澳大利亚基金委杰出青年 <a href="https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia" target="_blank" rel="noopener">ARC Future Fellow</a> （2021年全澳信息学部仅5人入选），格里菲斯大学（<a href="https://www.griffith.edu.au/" target="_blank" rel="noopener">Griffith University</a>） 正教授（Full Professor）。连续两年入选全球<a href="https://shiruipan.github.io/post/ai2000-2022.png" target="_blank" rel="noopener">AAAI/IJCAI最具影响力学者</a>（2022澳洲仅3人入选），入选<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3" target="_blank" rel="noopener">全球前2%顶尖科学家榜单</a> （2021），
-获得2021蒙纳士大学信息技术学院研究卓越奖（早期研究者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用11,000+，H指数（H-Index) 43。主要研究方向为数据挖掘、机器学习、图深度学习。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助，累计金额170万澳元。</p>
-<p>潘世瑞长期从事图数据挖掘与学习研究，其领导的实验室<a href='http://shiruipan.github.io/#people'> GRAND Lab </a> </span>包括博士后、博士生、研究生近20人，是澳大利亚最大的专注于图机器学习的实验室。GRAND Lab在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达3000+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。</p>
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Graph representation learning (GRL) is critical for graph-structured data analysis. However, most of the existing graph neural networks (GNNs) heavily rely on labeling information, which is normally expensive to obtain in the real world. Existing unsupervised GRL methods suffer from certain limitations, such as the heavy reliance on monotone contrastiveness and limited scalability. To overcome the aforementioned problems, in light of the recent advancements in graph contrastive learning, we introduce a novel self-supervised graph representation learning algorithm via Graph Contrastive Adjusted Zooming, namely G-Zoom, to learn node representations by leveraging the proposed adjusted zooming scheme. Specifically, this mechanism enables G-Zoom to explore and extract self-supervision signals from a graph from multiple scales: micro (i.e., node-level), meso (i.e., neighbourhood-level), and macro (i.e., subgraph-level). Firstly, we generate two augmented views of the input graph via two different graph augmentations. Then, we establish three different contrastiveness on the above three scales progressively, from node, neighbouring, to subgraph level, where we maximize the agreement between graph representations across scales. While we can extract valuable clues from a given graph on the micro and macro perspectives, the neighbourhood-level contrastiveness offers G-Zoom the capability of a customizable option based on our adjusted zooming scheme to manually choose an optimal viewpoint that lies between the micro and macro perspectives to better understand the graph data. Additionally, to make our model scalable to large graphs, we employ a parallel graph diffusion approach to decouple model training from the graph size. We have conducted extensive experiments on real-world datasets, and the results demonstrate that our proposed model outperforms state-of-the-art methods consistently.</p>
+    
 
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/graph-neural-networks/">Graph Neural Networks</a>
+  
+  <a class="badge badge-light" href="/tag/self-supervised-learning/">Self-supervised Learning</a>
+  
+</div>
 
 
 
@@ -1011,7 +1109,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://shiruipan.github.io/post/bio_cn/&amp;text=%e6%bd%98%e4%b8%96%e7%91%9e%ef%bc%88%e4%b8%ad%e6%96%87%e7%ae%80%e4%bb%8b%ef%bc%89" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://shiruipan.github.io/publication/tnnls-22-zheng/&amp;text=Towards%20Graph%20Self-Supervised%20Learning%20with%20Contrastive%20Adjusted%20Zooming" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1024,7 +1122,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://shiruipan.github.io/post/bio_cn/&amp;t=%e6%bd%98%e4%b8%96%e7%91%9e%ef%bc%88%e4%b8%ad%e6%96%87%e7%ae%80%e4%bb%8b%ef%bc%89" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://shiruipan.github.io/publication/tnnls-22-zheng/&amp;t=Towards%20Graph%20Self-Supervised%20Learning%20with%20Contrastive%20Adjusted%20Zooming" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1037,7 +1135,7 @@
       
       
       <li>
-        <a href="mailto:?subject=%e6%bd%98%e4%b8%96%e7%91%9e%ef%bc%88%e4%b8%ad%e6%96%87%e7%ae%80%e4%bb%8b%ef%bc%89&amp;body=https://shiruipan.github.io/post/bio_cn/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Towards%20Graph%20Self-Supervised%20Learning%20with%20Contrastive%20Adjusted%20Zooming&amp;body=https://shiruipan.github.io/publication/tnnls-22-zheng/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1050,7 +1148,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://shiruipan.github.io/post/bio_cn/&amp;title=%e6%bd%98%e4%b8%96%e7%91%9e%ef%bc%88%e4%b8%ad%e6%96%87%e7%ae%80%e4%bb%8b%ef%bc%89" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://shiruipan.github.io/publication/tnnls-22-zheng/&amp;title=Towards%20Graph%20Self-Supervised%20Learning%20with%20Contrastive%20Adjusted%20Zooming" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1063,7 +1161,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%e6%bd%98%e4%b8%96%e7%91%9e%ef%bc%88%e4%b8%ad%e6%96%87%e7%ae%80%e4%bb%8b%ef%bc%89%20https://shiruipan.github.io/post/bio_cn/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Towards%20Graph%20Self-Supervised%20Learning%20with%20Contrastive%20Adjusted%20Zooming%20https://shiruipan.github.io/publication/tnnls-22-zheng/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1076,7 +1174,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://shiruipan.github.io/post/bio_cn/&amp;title=%e6%bd%98%e4%b8%96%e7%91%9e%ef%bc%88%e4%b8%ad%e6%96%87%e7%ae%80%e4%bb%8b%ef%bc%89" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://shiruipan.github.io/publication/tnnls-22-zheng/&amp;title=Towards%20Graph%20Self-Supervised%20Learning%20with%20Contrastive%20Adjusted%20Zooming" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1096,25 +1194,110 @@
 
   
   
-
-
-
-  
-  
-  
     
+
+
+
+  
+  
   
   
   
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://shiruipan.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu85d38fc0f5ccf75a7cf297e042aebde1_1067481_270x270_fill_q75_lanczos_center.jpg" alt="Shirui Pan"></a>
+      <a href="/authors/yizhen-zheng/"><img class="avatar mr-3 avatar-circle" src="/authors/yizhen-zheng/avatar_hu0a02987c1b5bc970b81bbe1882c329b7_72534_270x270_fill_q75_lanczos_center.jpg" alt="Yizhen Zheng"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://shiruipan.github.io/">Shirui Pan</a></h5>
-      <h6 class="card-subtitle">Professor and ARC Future Fellow</h6>
+      <h5 class="card-title"><a href="/authors/yizhen-zheng/">Yizhen Zheng</a></h5>
+      <h6 class="card-subtitle">PhD Student @ Monash (07/2021-)</h6>
+      <p class="card-text">My research interests include machine learning and artificial intelligence.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//scholar.google.com/citations?user=TtzA-90AAAAJ&amp;hl=en" >
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/ming-jin/"><img class="avatar mr-3 avatar-circle" src="/authors/ming-jin/avatar_hu2df373187a978a3f0cf0ab99896fa923_910889_270x270_fill_q75_lanczos_center.jpg" alt="Ming Jin"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/ming-jin/">Ming Jin</a></h5>
+      <h6 class="card-subtitle">PhD Student @ Monash (08/2020-)</h6>
+      <p class="card-text">My research interests include machine learning and artificial intelligence.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//kimmeen.github.io/" >
+        <i class="fa fa-university"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/shirui-pan/"><img class="avatar mr-3 avatar-circle" src="/authors/shirui-pan/avatar_hu85d38fc0f5ccf75a7cf297e042aebde1_1067481_270x270_fill_q75_lanczos_center.jpg" alt="Shirui Pan"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/shirui-pan/">Shirui Pan</a></h5>
+      <h6 class="card-subtitle">Professor | ARC Future Fellow</h6>
       <p class="card-text">My research interests include data mining, machine learning, and graph  analysis.</p>
       <ul class="network-icon" aria-hidden="true">
   
@@ -1201,6 +1384,31 @@
   </div>
 
 
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
@@ -1218,7 +1426,7 @@
 
 
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">

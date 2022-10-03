@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tag/self-supervised-learning/</link>
       <atom:link href="https://shiruipan.github.io/tag/self-supervised-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Self-supervised Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 09:36:04 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Self-supervised Learning</title>
       <link>https://shiruipan.github.io/tag/self-supervised-learning/</link>
     </image>
+    
+    <item>
+      <title>Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming</title>
+      <link>https://shiruipan.github.io/publication/tnnls-22-zheng/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-22-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph self-supervised learning: A survey</title>
