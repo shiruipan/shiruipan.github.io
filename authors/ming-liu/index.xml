@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/ming-liu/</link>
       <atom:link href="https://shiruipan.github.io/authors/ming-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ming Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Ming Liu</title>
       <link>https://shiruipan.github.io/authors/ming-liu/</link>
     </image>
+    
+    <item>
+      <title>How Far are We from Robust Long Abstractive Summarization?</title>
+      <link>https://shiruipan.github.io/publication/emnlp-22-koh/</link>
+      <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/emnlp-22-koh/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Empirical Survey on Long Document Summarization: Datasets, Models and Metrics</title>
