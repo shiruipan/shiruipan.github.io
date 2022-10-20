@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/linhao-luo/</link>
       <atom:link href="https://shiruipan.github.io/authors/linhao-luo/index.xml" rel="self" type="application/rss+xml" />
     <description>Linhao Luo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/linhao-luo/avatar_huef1684e95320a56e3fb659bff152c6d2_2746869_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Linhao Luo</title>
       <link>https://shiruipan.github.io/authors/linhao-luo/</link>
     </image>
+    
+    <item>
+      <title>Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs</title>
+      <link>https://shiruipan.github.io/publication/wsdm-23-luo/</link>
+      <pubDate>Tue, 18 Oct 2022 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/wsdm-23-luo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

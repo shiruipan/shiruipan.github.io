@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Huan Liu | Shirui Pan</title>
-    <link>https://shiruipan.github.io/authors/huan-liu/</link>
-      <atom:link href="https://shiruipan.github.io/authors/huan-liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Huan Liu</description>
+    <title>Kaize Ding | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/kaize-ding/</link>
+      <atom:link href="https://shiruipan.github.io/authors/kaize-ding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaize Ding</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
-      <title>Huan Liu</title>
-      <link>https://shiruipan.github.io/authors/huan-liu/</link>
+      <title>Kaize Ding</title>
+      <link>https://shiruipan.github.io/authors/kaize-ding/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://shiruipan.github.io/publication/wsdm-23-liu/</link>
       <pubDate>Tue, 18 Oct 2022 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/wsdm-23-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Learning: A Survey</title>
-      <link>https://shiruipan.github.io/publication/tai-21-xia/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tai-21-xia/</guid>
       <description></description>
     </item>
     
