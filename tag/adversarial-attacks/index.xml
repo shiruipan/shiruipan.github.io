@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tag/adversarial-attacks/</link>
       <atom:link href="https://shiruipan.github.io/tag/adversarial-attacks/index.xml" rel="self" type="application/rss+xml" />
     <description>Adversarial Attacks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Adversarial Attacks</title>
       <link>https://shiruipan.github.io/tag/adversarial-attacks/</link>
     </image>
+    
+    <item>
+      <title>Projective Ranking-based GNN Evasion Attacks</title>
+      <link>https://shiruipan.github.io/publication/tkde-22-zhang/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-22-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks</title>
