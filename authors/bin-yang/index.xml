@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/bin-yang/</link>
       <atom:link href="https://shiruipan.github.io/authors/bin-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Bin Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Bin Yang</title>
       <link>https://shiruipan.github.io/authors/bin-yang/</link>
     </image>
+    
+    <item>
+      <title>Multivariate Time Series Forecasting with Dynamic Graph Neural ODEs</title>
+      <link>https://shiruipan.github.io/publication/tkde-22-jin/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-22-jin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting</title>

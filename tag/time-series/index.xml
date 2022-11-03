@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tag/time-series/</link>
       <atom:link href="https://shiruipan.github.io/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Series</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 12:15:49 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Nov 2022 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Time Series</title>
       <link>https://shiruipan.github.io/tag/time-series/</link>
     </image>
+    
+    <item>
+      <title>Multivariate Time Series Forecasting with Dynamic Graph Neural ODEs</title>
+      <link>https://shiruipan.github.io/publication/tkde-22-jin/</link>
+      <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-22-jin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>
