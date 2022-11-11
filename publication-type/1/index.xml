@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/publication-type/1/</link>
       <atom:link href="https://shiruipan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://shiruipan.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems</title>
+      <link>https://shiruipan.github.io/publication/icde-23-zhang/</link>
+      <pubDate>Mon, 03 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icde-23-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs</title>

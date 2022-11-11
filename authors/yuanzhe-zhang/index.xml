@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/yuanzhe-zhang/</link>
       <atom:link href="https://shiruipan.github.io/authors/yuanzhe-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuanzhe Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/yuanzhe-zhang/avatar_hub898a0afbfb5f72d7b375fc1a9afb449_5374894_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Yuanzhe Zhang</title>
       <link>https://shiruipan.github.io/authors/yuanzhe-zhang/</link>
     </image>
+    
+    <item>
+      <title>TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems</title>
+      <link>https://shiruipan.github.io/publication/icde-23-zhang/</link>
+      <pubDate>Mon, 03 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icde-23-zhang/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
