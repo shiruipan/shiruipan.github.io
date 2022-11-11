@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew C Terentis | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/andrew-c-terentis/</link>
+      <atom:link href="https://shiruipan.github.io/authors/andrew-c-terentis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew C Terentis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Aug 2021 09:36:17 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Andrew C Terentis</title>
+      <link>https://shiruipan.github.io/authors/andrew-c-terentis/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning Data Augmentation for Raman Spectroscopy Cancer Tissue Classification</title>
+      <link>https://shiruipan.github.io/publication/sr-21-wu/</link>
+      <pubDate>Wed, 25 Aug 2021 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/sr-21-wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

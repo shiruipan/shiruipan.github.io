@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tag/deep-learning/</link>
       <atom:link href="https://shiruipan.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Aug 2021 09:36:17 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>https://shiruipan.github.io/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning Data Augmentation for Raman Spectroscopy Cancer Tissue Classification</title>
+      <link>https://shiruipan.github.io/publication/sr-21-wu/</link>
+      <pubDate>Wed, 25 Aug 2021 09:36:17 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/sr-21-wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heterogeneous Graph Attention Network for Small and Medium-Sized Enterprises Bankruptcy Prediction</title>
