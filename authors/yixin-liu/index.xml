@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/authors/yixin-liu/</link>
       <atom:link href="https://shiruipan.github.io/authors/yixin-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yixin Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Feb 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/yixin-liu/avatar_hua0d4d4b24f4da3a102e4452ac738b95f_101461_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yixin Liu</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</title>
+      <link>https://shiruipan.github.io/publication/aaai-23-liu/</link>
+      <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</title>
       <link>https://shiruipan.github.io/publication/wsdm-23-liu/</link>
-      <pubDate>Tue, 18 Oct 2022 19:47:36 +1100</pubDate>
+      <pubDate>Sun, 26 Feb 2023 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/wsdm-23-liu/</guid>
       <description></description>
     </item>

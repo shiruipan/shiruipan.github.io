@@ -20,5 +20,29 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</title>
+      <link>https://shiruipan.github.io/publication/aaai-23-liu/</link>
+      <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor Contrastive Learning on Learnable Graph Augmentation</title>
+      <link>https://shiruipan.github.io/publication/aaai-23-shen/</link>
+      <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-23-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple and Efficient Heterogeneous Graph Neural Network</title>
+      <link>https://shiruipan.github.io/publication/aaaai-23-yang/</link>
+      <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaaai-23-yang/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
