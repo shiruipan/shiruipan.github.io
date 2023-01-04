@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/post/</link>
       <atom:link href="https://shiruipan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,26 +13,15 @@
     </image>
     
     <item>
-      <title>潘世瑞（中文简介）</title>
-      <link>https://shiruipan.github.io/post/bio_cn/</link>
-      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/bio_cn/</guid>
-      <description>&lt;p&gt;潘世瑞，澳大利亚基金委杰出青年 &lt;a href=&#34;https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARC Future Fellow&lt;/a&gt; （2021年全澳信息学部仅5人入选），格里菲斯大学（&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt;） 正教授（Full Professor）。连续两年入选全球&lt;a href=&#34;https://shiruipan.github.io/post/ai2000-2022.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI/IJCAI最具影响力学者&lt;/a&gt;（2022澳洲仅3人入选），入选&lt;a href=&#34;https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全球前2%顶尖科学家榜单&lt;/a&gt; （2021），
-获得2021蒙纳士大学信息技术学院研究卓越奖（早期研究者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用11,000+，H指数（H-Index) 43。主要研究方向为数据挖掘、机器学习、图深度学习。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助，累计金额170万澳元。&lt;/p&gt;
-&lt;p&gt;潘世瑞长期从事图数据挖掘与学习研究，其领导的实验室&lt;a href=&#39;http://shiruipan.github.io/#people&#39;&gt; GRAND Lab &lt;/a&gt; &lt;/span&gt;包括博士后、博士生、研究生近20人，是澳大利亚最大的专注于图机器学习的实验室。GRAND Lab在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达3000+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>招生信息</title>
       <link>https://shiruipan.github.io/post/recruitment/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/post/recruitment/</guid>
-      <description>&lt;p&gt;潘世瑞 (Shirui Pan)，&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt; (格里菲斯大学）任终身教授（Full Professor）。现招聘2023年入学2-3名博士生加盟其新课题组，从事图神经网络、可信AI方向研究，提供全额奖学金。&lt;/p&gt;
+      <description>&lt;p&gt;潘世瑞 (Shirui Pan)，&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt; (格里菲斯大学）任终身教授（Full Professor）。现招聘2023年入学3名博士生加盟其新课题组，从事图神经网络、可信AI方向研究，提供全额奖学金。&lt;/p&gt;
 &lt;h3 id=&#34;关于本团队&#34;&gt;关于本团队&lt;/h3&gt;
-&lt;p&gt;潘世瑞（Shirui Pan），澳大利亚基金委杰出青年 &lt;a href=&#34;https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARC Future Fellow&lt;/a&gt; （2021年全澳信息学部仅5人入选），2022年8月起任格里菲斯大学正教授（Full Professor）。连续两年入选全球&lt;a href=&#34;https://shiruipan.github.io/post/ai2000-2022.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI/IJCAI最具影响力学者&lt;/a&gt;（2022澳洲仅3人入选），入选&lt;a href=&#34;https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全球前2%顶尖科学家榜单&lt;/a&gt; （2021），
-获得2021蒙纳士大学信息技术学院研究卓越奖（青年学者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用11,000+，H指数（H-Index) 43。主要研究方向为数据挖掘、机器学习，侧重于图数据学习与分析。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助，累计金额170万澳元。&lt;/p&gt;
-&lt;p&gt;潘世瑞长期从事图机器学习研究，其团队&lt;a href=&#39;http://shiruipan.github.io/#people&#39;&gt; GRAND Lab &lt;/a&gt; &lt;/span&gt;在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达3000+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。团队成员毕业后大多数获得海内外教职、进入学术界工业界，或者自主创业。&lt;/p&gt;
+&lt;p&gt;潘世瑞（Shirui Pan），澳大利亚基金委杰出青年 &lt;a href=&#34;https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARC Future Fellow&lt;/a&gt; （2021年全澳信息学部仅5人入选），2022年8月起任格里菲斯大学正教授（Full Professor），同时也是目前澳洲计算机领域最年轻正教授（之一）。连续两年入选全球&lt;a href=&#34;https://shiruipan.github.io/post/ai2000-2022.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI/IJCAI最具影响力学者&lt;/a&gt;（2022澳洲仅3人入选），入选&lt;a href=&#34;https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全球前2%顶尖科学家榜单&lt;/a&gt; （2022，2021），
+获得2021蒙纳士大学信息技术学院研究卓越奖（青年学者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用13,000+，H指数（H-Index) 46。主要研究方向为数据挖掘、机器学习，侧重于图数据学习与分析。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助，累计金额170万澳元。&lt;/p&gt;
+&lt;p&gt;潘世瑞主要研究方向为人工智能、机器学习、数据挖掘。其长期从事图机器学习研究，其团队&lt;a href=&#39;http://shiruipan.github.io/#people&#39;&gt; GRAND Lab &lt;/a&gt; &lt;/span&gt;在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达4500+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。团队成员毕业后大多数获得海内外教职（如获得“海外优青”成为中国知名院校特聘教授）、进入学术界工业界，或者自主创业。&lt;/p&gt;
 &lt;h3 id=&#34;关于大学和环境&#34;&gt;关于大学和环境&lt;/h3&gt;
 &lt;p&gt;格里菲斯大学位于黄金海岸。黄金海岸环境优美，阳光明媚，绵延70公里的金色沙滩魅力无限，是澳洲最著名的旅游胜地之一，也是能很好体验学习和生活的地方。&lt;/p&gt;
 &lt;p&gt;格里菲斯大学的&lt;a href=&#34;https://www.shanghairanking.com/institution/griffith-university&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;计算机科学与工程&lt;/a&gt;学科在软科ARWU排名位于76-100名之间。
@@ -45,7 +34,7 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;团队将为你提供&#34;&gt;团队将为你提供&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;提供全额奖学金，包括3-3.5年的免学费奖学金和每年约30,000澳元  (约 14-15万人民币/年) 的生活费奖学金；&lt;/li&gt;
+&lt;li&gt;提供全额奖学金，包括3-3.5年的免学费奖学金和每年约33,000澳元的生活费奖学金；&lt;/li&gt;
 &lt;li&gt;实验室与很多国际大型公司与机构有长期合作往来，读博期间做好学术的同时可以开拓国际视野，培养沟通技巧和处事能力，了解澳洲和西方社会，全方位提升自己。毕业之后可去国际大公司研究院或美国等高校博士后，也可申请绿卡留在澳洲高校申请教职位或博士后，或澳洲相关政府部门、澳科院（CSIRO）及企业当数据科学家等，机会非常多。&lt;/li&gt;
 &lt;li&gt;成功的候选人将有机会在世界一流的研究环境中从事前沿研究项目，同时获得有关技术的宝贵经验，这些技术为在学术界或行业中的未来职位做好了充分的准备。我们还将提供可定制的课程，个人职业发展/支持以及跨学科和协作研究社区。&lt;/li&gt;
 &lt;li&gt;团队氛围融洽，你将会和来自海内外的师兄师姐一起进步。团队成员目前分别在Monash大学、中科院、天津大学、武汉大学、吉林大学等就读博士，你会获得优秀师兄师姐的帮助，助你冲击NeurIPS、ICML、KDD、ICLR 等顶会。&lt;/li&gt;
@@ -56,10 +45,21 @@
 &lt;li&gt;学习成绩优秀的应届本科生或硕士生；或正在从事相关科研或算法工作者；申请者必须有科研经历，发表过论文者优先。&lt;/li&gt;
 &lt;li&gt;计算机或相关专业，有优秀的编程水平，有编程竞赛获奖者优先，有深度学习编程经验者优先；&lt;/li&gt;
 &lt;li&gt;具备良好的数学，统计和优化等基础知识，有机器学习理论或者优化算法研究经验者优先；&lt;/li&gt;
-&lt;li&gt;满足学校的英语入学要求。&lt;/li&gt;
+&lt;li&gt;满足学校的英语入学要求（如雅思总分6.5，单科不低于6；托福总分79，单科不低于19）。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;联系信息&#34;&gt;联系信息&lt;/h3&gt;
 &lt;p&gt;请致信 &lt;a href=&#34;mailto:s.pan@griffith.edu.au&#34;&gt;s.pan@griffith.edu.au&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>潘世瑞（中文简介）</title>
+      <link>https://shiruipan.github.io/post/bio_cn/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/bio_cn/</guid>
+      <description>&lt;p&gt;潘世瑞，澳大利亚基金委杰出青年 &lt;a href=&#34;https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARC Future Fellow&lt;/a&gt; （2021年全澳信息学部仅5人入选），格里菲斯大学（&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt;） 正教授（Full Professor）。连续两年入选全球&lt;a href=&#34;https://shiruipan.github.io/post/ai2000-2022.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI/IJCAI最具影响力学者&lt;/a&gt;（2022澳洲仅3人入选），入选&lt;a href=&#34;https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全球前2%顶尖科学家榜单&lt;/a&gt; （2021），
+获得2021蒙纳士大学信息技术学院研究卓越奖（早期研究者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用13,000+，H指数（H-Index) 46。主要研究方向为数据挖掘、机器学习、图深度学习。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助，累计金额170万澳元。&lt;/p&gt;
+&lt;p&gt;潘世瑞长期从事图数据挖掘与学习研究，其领导的实验室&lt;a href=&#39;http://shiruipan.github.io/#people&#39;&gt; GRAND Lab &lt;/a&gt; &lt;/span&gt;包括博士后、博士生、研究生近20人，是澳大利亚最大的专注于图机器学习的实验室。GRAND Lab在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达3000+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。&lt;/p&gt;
 </description>
     </item>
     
