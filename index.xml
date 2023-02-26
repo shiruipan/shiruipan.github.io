@@ -33,6 +33,46 @@
     </item>
     
     <item>
+      <title>Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs</title>
+      <link>https://shiruipan.github.io/publication/www-23-zheng/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CurvDrop: A Ricci Curvature Based Approach to Prevent Graph Neural Networks from Over-Smoothing and Over-Squashing</title>
+      <link>https://shiruipan.github.io/publication/www-23-liu/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-23-jin/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Graph Representation Learning for Local Corruption Recovery</title>
+      <link>https://shiruipan.github.io/publication/www-23-zhou/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAMDR: A Model Agnostic Learning Method for Multi-Domain Recommendation</title>
+      <link>https://shiruipan.github.io/publication/icde-23-luo/</link>
+      <pubDate>Mon, 03 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icde-23-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems</title>
       <link>https://shiruipan.github.io/publication/icde-23-zhang/</link>
       <pubDate>Mon, 03 Apr 2023 19:47:36 +1100</pubDate>
@@ -77,6 +117,23 @@
       <link>https://shiruipan.github.io/publication/wsdm-23-liu/</link>
       <pubDate>Sun, 26 Feb 2023 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/wsdm-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications (IEEE Trans/CORE A* Papers)</title>
+      <link>https://shiruipan.github.io/post/selectedpub/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/selectedpub/</guid>
+      <description>&lt;script src=&#34;https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fshiruipan&amp;jsonp=1&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contrastive Graph Similarity Networks</title>
+      <link>https://shiruipan.github.io/publication/tweb-23-wang/</link>
+      <pubDate>Mon, 30 Jan 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tweb-23-wang/</guid>
       <description></description>
     </item>
     
@@ -913,15 +970,6 @@ This research group mainly focuses on data mining, machine learning, NLP, deep l
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/publication/zhang-2019-tifs/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Publication (IEEE Trans/CORE A* Papers)</title>
-      <link>https://shiruipan.github.io/post/selectedpub/</link>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/selectedpub/</guid>
-      <description>&lt;script src=&#34;https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero%2Fshiruipan&amp;jsonp=1&#34;&gt;&lt;/script&gt;
-</description>
     </item>
     
     <item>

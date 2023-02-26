@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/xin-zheng/</link>
       <atom:link href="https://shiruipan.github.io/authors/xin-zheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Zheng</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2022 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/xin-zheng/avatar_hubd1506cda98dc3fca6e54f6276db6673_2758822_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xin Zheng</title>
       <link>https://shiruipan.github.io/authors/xin-zheng/</link>
     </image>
+    
+    <item>
+      <title>Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs</title>
+      <link>https://shiruipan.github.io/publication/www-23-zheng/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing</title>

@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/yongliang-qiao/</link>
       <atom:link href="https://shiruipan.github.io/authors/yongliang-qiao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yongliang Qiao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Yongliang Qiao</title>
       <link>https://shiruipan.github.io/authors/yongliang-qiao/</link>
     </image>
+    
+    <item>
+      <title>Contrastive Graph Similarity Networks</title>
+      <link>https://shiruipan.github.io/publication/tweb-23-wang/</link>
+      <pubDate>Mon, 30 Jan 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tweb-23-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>One-shot Learning-based Animal Video Segmentation</title>

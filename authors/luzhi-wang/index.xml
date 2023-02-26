@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/authors/luzhi-wang/</link>
       <atom:link href="https://shiruipan.github.io/authors/luzhi-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Luzhi Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/luzhi-wang/avatar_hu7dcae260c56dea1131f65413516c7bdc_344854_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Luzhi Wang</title>
       <link>https://shiruipan.github.io/authors/luzhi-wang/</link>
     </image>
+    
+    <item>
+      <title>Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-23-jin/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Graph Similarity Networks</title>
+      <link>https://shiruipan.github.io/publication/tweb-23-wang/</link>
+      <pubDate>Mon, 30 Jan 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tweb-23-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning</title>

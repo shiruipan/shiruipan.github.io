@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junbin Gao | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/junbin-gao/</link>
+      <atom:link href="https://shiruipan.github.io/authors/junbin-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junbin Gao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Junbin Gao</title>
+      <link>https://shiruipan.github.io/authors/junbin-gao/</link>
+    </image>
+    
+    <item>
+      <title>Robust Graph Representation Learning for Local Corruption Recovery</title>
+      <link>https://shiruipan.github.io/publication/www-23-zhou/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-zhou/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

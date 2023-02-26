@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/wei-lin/</link>
       <atom:link href="https://shiruipan.github.io/authors/wei-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Lin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Wei Lin</title>
       <link>https://shiruipan.github.io/authors/wei-lin/</link>
     </image>
+    
+    <item>
+      <title>Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-23-jin/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-jin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning</title>

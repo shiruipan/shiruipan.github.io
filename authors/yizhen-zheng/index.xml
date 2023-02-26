@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/authors/yizhen-zheng/</link>
       <atom:link href="https://shiruipan.github.io/authors/yizhen-zheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Yizhen Zheng</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Feb 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/yizhen-zheng/avatar_hu0a02987c1b5bc970b81bbe1882c329b7_72534_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yizhen Zheng</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-23-jin/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</title>
       <link>https://shiruipan.github.io/publication/aaai-23-liu/</link>
       <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/aaai-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Graph Similarity Networks</title>
+      <link>https://shiruipan.github.io/publication/tweb-23-wang/</link>
+      <pubDate>Mon, 30 Jan 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tweb-23-wang/</guid>
       <description></description>
     </item>
     

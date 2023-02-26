@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graph Neural Networks | Shirui Pan</title>
+    <title>graph neural networks | Shirui Pan</title>
     <link>https://shiruipan.github.io/tag/graph-neural-networks/</link>
       <atom:link href="https://shiruipan.github.io/tag/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
-    <description>Graph Neural Networks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Feb 2023 19:47:36 +1100</lastBuildDate>
+    <description>graph neural networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
-      <title>Graph Neural Networks</title>
+      <title>graph neural networks</title>
       <link>https://shiruipan.github.io/tag/graph-neural-networks/</link>
     </image>
+    
+    <item>
+      <title>Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs</title>
+      <link>https://shiruipan.github.io/publication/www-23-zheng/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CurvDrop: A Ricci Curvature Based Approach to Prevent Graph Neural Networks from Over-Smoothing and Over-Squashing</title>
+      <link>https://shiruipan.github.io/publication/www-23-liu/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Graph Representation Learning for Local Corruption Recovery</title>
+      <link>https://shiruipan.github.io/publication/www-23-zhou/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</title>
+      <link>https://shiruipan.github.io/publication/aaai-23-liu/</link>
+      <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-23-liu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs</title>
@@ -21,10 +53,34 @@
     </item>
     
     <item>
+      <title>Neighbor Contrastive Learning on Learnable Graph Augmentation</title>
+      <link>https://shiruipan.github.io/publication/aaai-23-shen/</link>
+      <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-23-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple and Efficient Heterogeneous Graph Neural Network</title>
+      <link>https://shiruipan.github.io/publication/aaaai-23-yang/</link>
+      <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaaai-23-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</title>
       <link>https://shiruipan.github.io/publication/wsdm-23-liu/</link>
       <pubDate>Sun, 26 Feb 2023 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/wsdm-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Graph Similarity Networks</title>
+      <link>https://shiruipan.github.io/publication/tweb-23-wang/</link>
+      <pubDate>Mon, 30 Jan 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tweb-23-wang/</guid>
       <description></description>
     </item>
     

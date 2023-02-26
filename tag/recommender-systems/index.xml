@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recommender Systems | Shirui Pan</title>
+    <title>recommender systems | Shirui Pan</title>
     <link>https://shiruipan.github.io/tag/recommender-systems/</link>
       <atom:link href="https://shiruipan.github.io/tag/recommender-systems/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recommender Systems</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <description>recommender systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
-      <title>Recommender Systems</title>
+      <title>recommender systems</title>
       <link>https://shiruipan.github.io/tag/recommender-systems/</link>
     </image>
+    
+    <item>
+      <title>Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation</title>
+      <link>https://shiruipan.github.io/publication/www-23-jin/</link>
+      <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-23-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAMDR: A Model Agnostic Learning Method for Multi-Domain Recommendation</title>
+      <link>https://shiruipan.github.io/publication/icde-23-luo/</link>
+      <pubDate>Mon, 03 Apr 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icde-23-luo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hypergraph Convolutional Network for Group Recommendation</title>
