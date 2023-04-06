@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/linhao-luo/</link>
       <atom:link href="https://shiruipan.github.io/authors/linhao-luo/index.xml" rel="self" type="application/rss+xml" />
     <description>Linhao Luo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/linhao-luo/avatar_huef1684e95320a56e3fb659bff152c6d2_2746869_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Linhao Luo</title>
       <link>https://shiruipan.github.io/authors/linhao-luo/</link>
     </image>
+    
+    <item>
+      <title>Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion</title>
+      <link>https://shiruipan.github.io/publication/sigir-23-luo/</link>
+      <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/sigir-23-luo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MAMDR: A Model Agnostic Learning Method for Multi-Domain Recommendation</title>
