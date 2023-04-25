@@ -5,12 +5,36 @@
     <link>https://shiruipan.github.io/publication/</link>
       <atom:link href="https://shiruipan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://shiruipan.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>G2Pxy: Generative Open-Set node Classification on Graphs with Proxy Unknowns</title>
+      <link>https://shiruipan.github.io/publication/ijcai-23-zhang/</link>
+      <pubDate>Sat, 19 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-23-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Uneven Vulnerability of Link Stealing Attacks against Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/icml-23-zhang/</link>
+      <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icml-23-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the Missing-half: Graph Complementary Learning</title>
+      <link>https://shiruipan.github.io/publication/icml-23-zheng/</link>
+      <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icml-23-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion</title>

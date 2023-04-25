@@ -5,12 +5,36 @@
     <link>https://shiruipan.github.io/authors/shirui-pan/</link>
       <atom:link href="https://shiruipan.github.io/authors/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/shirui-pan/avatar_hu85d38fc0f5ccf75a7cf297e042aebde1_1067481_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/authors/shirui-pan/</link>
     </image>
+    
+    <item>
+      <title>G2Pxy: Generative Open-Set node Classification on Graphs with Proxy Unknowns</title>
+      <link>https://shiruipan.github.io/publication/ijcai-23-zhang/</link>
+      <pubDate>Sat, 19 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/ijcai-23-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Uneven Vulnerability of Link Stealing Attacks against Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/icml-23-zhang/</link>
+      <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icml-23-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the Missing-half: Graph Complementary Learning</title>
+      <link>https://shiruipan.github.io/publication/icml-23-zheng/</link>
+      <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icml-23-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion</title>

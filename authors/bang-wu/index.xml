@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/bang-wu/</link>
       <atom:link href="https://shiruipan.github.io/authors/bang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Bang Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 19:38:03 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/bang-wu/avatar_hu2dd37d392c8646ea01c5cf7b022785b3_5843845_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Bang Wu</title>
       <link>https://shiruipan.github.io/authors/bang-wu/</link>
     </image>
+    
+    <item>
+      <title>Demystifying Uneven Vulnerability of Link Stealing Attacks against Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/icml-23-zhang/</link>
+      <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/icml-23-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation</title>
