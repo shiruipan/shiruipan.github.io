@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mojtaba Nayyeri | Shirui Pan</title>
-    <link>https://shiruipan.github.io/authors/mojtaba-nayyeri/</link>
-      <atom:link href="https://shiruipan.github.io/authors/mojtaba-nayyeri/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mojtaba Nayyeri</description>
+    <title>Shirui Pan and Steffen Staab | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/shirui-pan-and-steffen-staab/</link>
+      <atom:link href="https://shiruipan.github.io/authors/shirui-pan-and-steffen-staab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shirui Pan and Steffen Staab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jul 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
-      <title>Mojtaba Nayyeri</title>
-      <link>https://shiruipan.github.io/authors/mojtaba-nayyeri/</link>
+      <title>Shirui Pan and Steffen Staab</title>
+      <link>https://shiruipan.github.io/authors/shirui-pan-and-steffen-staab/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://shiruipan.github.io/publication/acl-23-xiong/</link>
       <pubDate>Sun, 09 Jul 2023 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/acl-23-xiong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ultrahyperbolic Knowledge Graph Embeddings</title>
-      <link>https://shiruipan.github.io/publication/kdd-22-xiong/</link>
-      <pubDate>Sun, 14 Aug 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/kdd-22-xiong/</guid>
       <description></description>
     </item>
     
