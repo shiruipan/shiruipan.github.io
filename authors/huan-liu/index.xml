@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/huan-liu/</link>
       <atom:link href="https://shiruipan.github.io/authors/huan-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Huan Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Feb 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Huan Liu</title>
       <link>https://shiruipan.github.io/authors/huan-liu/</link>
     </image>
+    
+    <item>
+      <title>Learning Strong Graph Neural Networks with Weak Information</title>
+      <link>https://shiruipan.github.io/publication/kdd-23-liu/</link>
+      <pubDate>Sun, 06 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/kdd-23-liu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</title>

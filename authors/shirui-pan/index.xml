@@ -5,7 +5,7 @@
     <link>https://shiruipan.github.io/authors/shirui-pan/</link>
       <atom:link href="https://shiruipan.github.io/authors/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Aug 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/shirui-pan/avatar_hu85d38fc0f5ccf75a7cf297e042aebde1_1067481_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shirui Pan</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Learning Strong Graph Neural Networks with Weak Information</title>
+      <link>https://shiruipan.github.io/publication/kdd-23-liu/</link>
+      <pubDate>Sun, 06 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/kdd-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>G2Pxy: Generative Open-Set node Classification on Graphs with Proxy Unknowns</title>
       <link>https://shiruipan.github.io/publication/ijcai-23-zhang/</link>
-      <pubDate>Sat, 19 Aug 2023 19:47:36 +1100</pubDate>
+      <pubDate>Tue, 01 Aug 2023 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/ijcai-23-zhang/</guid>
       <description></description>
     </item>

@@ -26,7 +26,7 @@
       <link>https://shiruipan.github.io/post/recruitment/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/post/recruitment/</guid>
-      <description>&lt;p&gt;潘世瑞 (Shirui Pan)，&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt; (格里菲斯大学）任终身教授（Full Professor）。现招聘2023年入学3名博士生加盟其新课题组，从事图神经网络、可信AI方向研究，提供全额奖学金。&lt;/p&gt;
+      <description>&lt;p&gt;潘世瑞 (Shirui Pan)，&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt; (格里菲斯大学）终身教授（Full Professor）。现招聘2023年入学3名博士生加盟其新课题组，从事图神经网络、可信AI方向研究，提供全额奖学金。&lt;/p&gt;
 &lt;h3 id=&#34;关于本团队&#34;&gt;关于本团队&lt;/h3&gt;
 &lt;p&gt;潘世瑞（Shirui Pan），澳大利亚基金委杰出青年 &lt;a href=&#34;https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARC Future Fellow&lt;/a&gt; （2021年全澳信息学部仅5人入选），2022年8月起任&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;格里菲斯大学&lt;/a&gt;正教授（Full Professor），同时也是目前澳洲计算机领域最年轻正教授（之一），2023年入选&lt;a href=&#34;https://www.qldacademy.org.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;澳大利亚昆士兰艺术与科学院（QAAS）&lt;/a&gt; Fellow。连续两年入选全球&lt;a href=&#34;https://shiruipan.github.io/post/ai2000-2022.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI/IJCAI最具影响力学者&lt;/a&gt;（2022澳洲仅3人入选），入选&lt;a href=&#34;https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全球前2%顶尖科学家榜单&lt;/a&gt; （2022，2021），
 获得2021蒙纳士大学信息技术学院研究卓越奖（青年学者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用14,000+，H指数（H-Index) 47。主要研究方向为数据挖掘、机器学习，侧重于图数据学习与分析。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助，累计金额170万澳元。&lt;/p&gt;
@@ -58,6 +58,38 @@
 &lt;/ol&gt;
 &lt;h3 id=&#34;联系信息&#34;&gt;联系信息&lt;/h3&gt;
 &lt;p&gt;请致信 &lt;a href=&#34;mailto:s.pan@griffith.edu.au&#34;&gt;s.pan@griffith.edu.au&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>招生信息</title>
+      <link>https://shiruipan.github.io/post/research/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/research/</guid>
+      <description>&lt;h3 id=&#34;some-research-topics-in-graph-machine-learning-by-our-group&#34;&gt;Some Research Topics in Graph Machine Learning by our Group&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Graph self-supervised learning (Graph SSL) [IJCAI-21][TNNLS-22][ICDM-22]&lt;/li&gt;
+&lt;li&gt;GNNs (Graph SSL) at Scale [NeurIPS-22]&lt;/li&gt;
+&lt;li&gt;GNNs for Time Series Analysis [KDD-20][TKDE-22]&lt;/li&gt;
+&lt;li&gt;Dynamic Graph Representations (Dynamic GNNs) [NeurIPS-22]&lt;/li&gt;
+&lt;li&gt;Knowledge Graph Embedding and Reasoning [KDD-22]&lt;/li&gt;
+&lt;li&gt;GNNs for heterophilic graphs [AAAI-22][Survey]&lt;/li&gt;
+&lt;li&gt;GNNs for clustering/partition [IJCAI-19][CIKM-17]&lt;/li&gt;
+&lt;li&gt;GNNS for anomaly detection [TNNLS-22]&lt;/li&gt;
+&lt;li&gt;Defence and attacks in GNNs&lt;/li&gt;
+&lt;li&gt;Privacy in GNNs [AssiaCCS]&lt;/li&gt;
+&lt;li&gt;Explainability in GNNs&lt;/li&gt;
+&lt;li&gt;Graph Structure Learning [WWW-22]&lt;/li&gt;
+&lt;li&gt;Graph Neural Architecture Search [WWW-22]&lt;/li&gt;
+&lt;li&gt;Graph Domain Adaptation [WWW-20]&lt;/li&gt;
+&lt;li&gt;Graph Out-of-Detection Generalization and Detection [WSDM-23]&lt;/li&gt;
+&lt;li&gt;Graph Similarity Learning [TWEB-22][IJCAI-22]&lt;/li&gt;
+&lt;li&gt;GNNs for Recommender Systems&lt;/li&gt;
+&lt;li&gt;GNNs for Drug Discovery&lt;/li&gt;
+&lt;li&gt;Data-centric GNNs&lt;/li&gt;
+&lt;li&gt;PLM meets Graphs&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Please contact me if you are interested in one of this&lt;/p&gt;
 </description>
     </item>
     
