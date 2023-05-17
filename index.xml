@@ -186,6 +186,100 @@
     </item>
     
     <item>
+      <title>Graph ML Research from Our Group</title>
+      <link>https://shiruipan.github.io/post/research/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shiruipan.github.io/post/research/</guid>
+      <description>&lt;p&gt;Our research group has been working extensively in graph machine learning (ML), particularly in graph neural networks (GNNs). Some of the GNN research is highlighted below. Besides graph ML, we are also working in the broad area of AI. See more details in this &lt;a href=&#34;../../post/phd_position/&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;1--graph-self-supervised-learning-graph-ssl&#34;&gt;1.  Graph self-supervised learning (Graph SSL)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2103.00111&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph Self-Supervised Learning: A Survey (TKDE-22)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2105.05682.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph
+Representation Learning (IJCAI-21)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2111.10698&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming
+(TNNLS-22)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2210.08792&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unifying Graph Contrastive Learning with Flexible Contextual Scopes
+(ICDM-22)&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-gnns-graph-ssl-at-scale&#34;&gt;2. GNNs (Graph SSL) at Scale&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2206.01535&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination (NeurIPS-22)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-gnns-for-time-series-analysis&#34;&gt;3. GNNs for Time Series Analysis&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2005.11650&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks (KDD-20)&lt;/a&gt; (Citations: 500+)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2202.08408.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multivariate Time Series Forecasting with
+Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4-dynamic-graph-representations-dynamic-gnns&#34;&gt;4. Dynamic Graph Representations (Dynamic GNNs)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mingjin.dev/assets/pdf/neurips-22-jin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs (NeurIPS22)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;5-knowledge-graph-embedding-and-reasoning&#34;&gt;5. Knowledge Graph Embedding and Reasoning&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2206.00449.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ultrahyperbolic Knowledge Graph Embeddings (KDD-22)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;6-gnns-for-heterophilic-graphs&#34;&gt;6. GNNs for heterophilic graphs&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2211.14065.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating (AAAI-23)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2202.07082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph neural networks for graphs with heterophily: A survey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;7-gnns-for-clusteringpartition&#34;&gt;7. GNNs for clustering/partition&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ijcai.org/proceedings/2019/509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attributed Graph Clustering: A Deep Attentional Embedding Approach (IJCAI-19)&lt;/a&gt;(Citations: 270+)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/wang-mgae-2017/wang-mgae-2017.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MGAE: marginalized graph autoencoder for graph clustering (CIKM-17)&lt;/a&gt; (Citations: 300+)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;8-gnns-for-anomaly-detection&#34;&gt;8. GNNS for anomaly detection&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2103.00113.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning (TNNLS-22)&lt;/a&gt; (Citations: 90+]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;9-defence-and-attacks-in-gnns&#34;&gt;9. Defence and attacks in GNNs&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2202.12993&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Projective Ranking-based GNN Evasion Attacks(TKDE-22)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;10-privacy-in-gnns-assiaccs&#34;&gt;10. Privacy in GNNs [AssiaCCS]&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2010.12751.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation (AsiaCCS-22)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/icdm-21-wu/icdm-21-wu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications (ICDM-21)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;11-graph-few-shot-learning&#34;&gt;11. Graph Few-shot Learning&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2304.08183.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion (SIGIR-23)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;12-graph-structure-learning&#34;&gt;12. Graph Structure Learning&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/www-22-liu/www-22-liu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Towards Unsupervised Deep Graph Structure Learning (WWW-22)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;13-graph-neural-architecture-search&#34;&gt;13. Graph Neural Architecture Search&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/icdm-22-xin/icdm-22-xin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing (ICDM-22)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2302.12357.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs (WWW-22)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;14-graph-domain-adaptation&#34;&gt;14. Graph Domain Adaptation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/www-2020-wu/www-2020-wu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unsupervised Domain Adaptive Graph Convolutional Networks (WWW-20)&lt;/a&gt; (Citations: 80+)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;15-graph-out-of-detection-generalization-and-detection&#34;&gt;15. Graph Out-of-Detection Generalization and Detection&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2211.04208.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection (WSDM-23)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;16-graph-similarity-learning&#34;&gt;16. Graph Similarity Learning&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3580511&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contrastive Graph Similarity Networks (TWEB-23)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/ijcai-22-jin/ijcai-22-jin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning (IJCAI-22)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;17-gnns-for-recommender-systems&#34;&gt;17. GNNs for Recommender Systems&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2305.05848&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation (WWW-23)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;18-gnns-for-drug-discovery&#34;&gt;18. GNNs for Drug Discovery&lt;/h4&gt;
+&lt;h4 id=&#34;19-data-centric-gnns&#34;&gt;19. Data-centric GNNs&lt;/h4&gt;
+&lt;h4 id=&#34;20-plm-meets-graphs&#34;&gt;20. PLM meets Graphs&lt;/h4&gt;
+&lt;p&gt;Please contact me if you are interested in any of these topics for further discussions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>招生信息</title>
       <link>https://shiruipan.github.io/post/recruitment/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
@@ -222,38 +316,6 @@
 &lt;/ol&gt;
 &lt;h3 id=&#34;联系信息&#34;&gt;联系信息&lt;/h3&gt;
 &lt;p&gt;请致信 &lt;a href=&#34;mailto:s.pan@griffith.edu.au&#34;&gt;s.pan@griffith.edu.au&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>招生信息</title>
-      <link>https://shiruipan.github.io/post/research/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/research/</guid>
-      <description>&lt;h3 id=&#34;some-research-topics-in-graph-machine-learning-by-our-group&#34;&gt;Some Research Topics in Graph Machine Learning by our Group&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Graph self-supervised learning (Graph SSL) [IJCAI-21][TNNLS-22][ICDM-22]&lt;/li&gt;
-&lt;li&gt;GNNs (Graph SSL) at Scale [NeurIPS-22]&lt;/li&gt;
-&lt;li&gt;GNNs for Time Series Analysis [KDD-20][TKDE-22]&lt;/li&gt;
-&lt;li&gt;Dynamic Graph Representations (Dynamic GNNs) [NeurIPS-22]&lt;/li&gt;
-&lt;li&gt;Knowledge Graph Embedding and Reasoning [KDD-22]&lt;/li&gt;
-&lt;li&gt;GNNs for heterophilic graphs [AAAI-22][Survey]&lt;/li&gt;
-&lt;li&gt;GNNs for clustering/partition [IJCAI-19][CIKM-17]&lt;/li&gt;
-&lt;li&gt;GNNS for anomaly detection [TNNLS-22]&lt;/li&gt;
-&lt;li&gt;Defence and attacks in GNNs&lt;/li&gt;
-&lt;li&gt;Privacy in GNNs [AssiaCCS]&lt;/li&gt;
-&lt;li&gt;Explainability in GNNs&lt;/li&gt;
-&lt;li&gt;Graph Structure Learning [WWW-22]&lt;/li&gt;
-&lt;li&gt;Graph Neural Architecture Search [WWW-22]&lt;/li&gt;
-&lt;li&gt;Graph Domain Adaptation [WWW-20]&lt;/li&gt;
-&lt;li&gt;Graph Out-of-Detection Generalization and Detection [WSDM-23]&lt;/li&gt;
-&lt;li&gt;Graph Similarity Learning [TWEB-22][IJCAI-22]&lt;/li&gt;
-&lt;li&gt;GNNs for Recommender Systems&lt;/li&gt;
-&lt;li&gt;GNNs for Drug Discovery&lt;/li&gt;
-&lt;li&gt;Data-centric GNNs&lt;/li&gt;
-&lt;li&gt;PLM meets Graphs&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Please contact me if you are interested in one of this&lt;/p&gt;
 </description>
     </item>
     
