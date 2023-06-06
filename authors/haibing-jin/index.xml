@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chuanpan Zheng | Shirui Pan</title>
-    <link>https://shiruipan.github.io/authors/chuanpan-zheng/</link>
-      <atom:link href="https://shiruipan.github.io/authors/chuanpan-zheng/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chuanpan Zheng</description>
+    <title>Haibing Jin | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/haibing-jin/</link>
+      <atom:link href="https://shiruipan.github.io/authors/haibing-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haibing Jin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jun 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
-      <title>Chuanpan Zheng</title>
-      <link>https://shiruipan.github.io/authors/chuanpan-zheng/</link>
+      <title>Haibing Jin</title>
+      <link>https://shiruipan.github.io/authors/haibing-jin/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://shiruipan.github.io/publication/tkde-23-zheng/</link>
       <pubDate>Mon, 05 Jun 2023 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/tkde-23-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Graph Fusion Networks for Urban Region Embedding</title>
-      <link>https://shiruipan.github.io/publication/ijcai-22-wu/</link>
-      <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-22-wu/</guid>
       <description></description>
     </item>
     
