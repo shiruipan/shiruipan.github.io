@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/sheng-wan/</link>
       <atom:link href="https://shiruipan.github.io/authors/sheng-wan/index.xml" rel="self" type="application/rss+xml" />
     <description>Sheng Wan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/sheng-wan/avatar_hue2030b629f963dcd00c5232b359a4344_164278_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sheng Wan</title>
       <link>https://shiruipan.github.io/authors/sheng-wan/</link>
     </image>
+    
+    <item>
+      <title>Boosting Graph Contrastive Learning via Adaptive Sampling</title>
+      <link>https://shiruipan.github.io/publication/tnnls-23-wan/</link>
+      <pubDate>Sat, 05 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-23-wan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels</title>

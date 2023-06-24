@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/publication-type/2/</link>
       <atom:link href="https://shiruipan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jun 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://shiruipan.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>A Survey on Neural-symbolic Learning Systems</title>
+      <link>https://shiruipan.github.io/publication/nnj-23-yu/</link>
+      <pubDate>Sat, 05 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/nnj-23-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting Graph Contrastive Learning via Adaptive Sampling</title>
+      <link>https://shiruipan.github.io/publication/tnnls-23-wan/</link>
+      <pubDate>Sat, 05 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-23-wan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting</title>
