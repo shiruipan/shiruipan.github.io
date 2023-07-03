@@ -50,6 +50,8 @@
   <url>
     <loc>https://shiruipan.github.io/publication-type/2/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://shiruipan.github.io/publication/inforfus-23-jin/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://shiruipan.github.io/publication/nnj-23-yu/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/bo-yang/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
@@ -62,13 +64,25 @@
   <url>
     <loc>https://shiruipan.github.io/authors/dayou-liu/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://shiruipan.github.io/authors/di-jin/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://shiruipan.github.io/authors/dongran-yu/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://shiruipan.github.io/tag/fairness/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://shiruipan.github.io/authors/feng-xia/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://shiruipan.github.io/authors/he-zhang/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/hui-wang/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/jian-yang/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://shiruipan.github.io/authors/luzhi-wang/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://shiruipan.github.io/tag/neural-networks/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://shiruipan.github.io/tag/recommender-systems/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/sheng-wan/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -76,7 +90,11 @@
   <url>
     <loc>https://shiruipan.github.io/tag/symbolic-systems/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://shiruipan.github.io/authors/weiping-ding/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://shiruipan.github.io/authors/yibing-zhan/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://shiruipan.github.io/authors/yizhen-zheng/</loc><lastmod>2023-08-05T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/publication/ijcai-23-zhang/</loc><lastmod>2023-08-01T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -96,8 +114,6 @@
   <url>
     <loc>https://shiruipan.github.io/publication/icml-23-zheng/</loc><lastmod>2023-07-23T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://shiruipan.github.io/authors/he-zhang/</loc><lastmod>2023-07-23T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://shiruipan.github.io/tag/link-prediction/</loc><lastmod>2023-07-23T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/minhui-xue/</loc><lastmod>2023-07-23T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
@@ -113,8 +129,6 @@
     <loc>https://shiruipan.github.io/authors/xiao-wang/</loc><lastmod>2023-07-23T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/xingliang-yuan/</loc><lastmod>2023-07-23T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://shiruipan.github.io/authors/yizhen-zheng/</loc><lastmod>2023-07-23T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/yu-zheng/</loc><lastmod>2023-07-23T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -154,8 +168,6 @@
   <url>
     <loc>https://shiruipan.github.io/publication/www-23-liu/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://shiruipan.github.io/authors/di-jin/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://shiruipan.github.io/publication/www-23-jin/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/fei-jiang/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
@@ -170,13 +182,9 @@
   <url>
     <loc>https://shiruipan.github.io/authors/junbin-gao/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://shiruipan.github.io/authors/luzhi-wang/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://shiruipan.github.io/authors/miao-zhang/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/authors/peng-zhang/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://shiruipan.github.io/tag/recommender-systems/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/publication/www-23-zhou/</loc><lastmod>2023-04-30T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -383,8 +391,6 @@
     <loc>https://shiruipan.github.io/tag/knowledge-graph-embedding/</loc><lastmod>2022-08-14T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/publication/kdd-22-xiong/</loc><lastmod>2022-08-14T19:47:36+11:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://shiruipan.github.io/authors/feng-xia/</loc><lastmod>2022-08-02T09:36:04+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://shiruipan.github.io/publication/liu-21-survey/</loc><lastmod>2022-08-02T09:36:04+11:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

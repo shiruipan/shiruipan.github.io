@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/he-zhang/</link>
       <atom:link href="https://shiruipan.github.io/authors/he-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>He Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/he-zhang/avatar_huda0d38eb919fb1d0cb5359be8a4e7e77_71522_270x270_fill_q75_lanczos_center.jpg</url>
       <title>He Zhang</title>
       <link>https://shiruipan.github.io/authors/he-zhang/</link>
     </image>
+    
+    <item>
+      <title>A Survey on Fairness-aware Recommender Systems</title>
+      <link>https://shiruipan.github.io/publication/inforfus-23-jin/</link>
+      <pubDate>Sat, 05 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/inforfus-23-jin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Demystifying Uneven Vulnerability of Link Stealing Attacks against Graph Neural Networks</title>

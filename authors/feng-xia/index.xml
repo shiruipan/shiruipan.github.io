@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/feng-xia/</link>
       <atom:link href="https://shiruipan.github.io/authors/feng-xia/index.xml" rel="self" type="application/rss+xml" />
     <description>Feng Xia</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 09:36:04 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Feng Xia</title>
       <link>https://shiruipan.github.io/authors/feng-xia/</link>
     </image>
+    
+    <item>
+      <title>A Survey on Fairness-aware Recommender Systems</title>
+      <link>https://shiruipan.github.io/publication/inforfus-23-jin/</link>
+      <pubDate>Sat, 05 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/inforfus-23-jin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph self-supervised learning: A survey</title>
