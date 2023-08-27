@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/chuan-zhou/</link>
       <atom:link href="https://shiruipan.github.io/authors/chuan-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Chuan Zhou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Chuan Zhou</title>
       <link>https://shiruipan.github.io/authors/chuan-zhou/</link>
     </image>
+    
+    <item>
+      <title>Towards Flexible and Adaptive Neural Process for Cold-Start Recommendation</title>
+      <link>https://shiruipan.github.io/publication/tkde-23-lin/</link>
+      <pubDate>Sat, 26 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-23-lin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs</title>

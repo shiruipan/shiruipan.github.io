@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/xi-zhou/</link>
       <atom:link href="https://shiruipan.github.io/authors/xi-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Xi Zhou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Feb 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Xi Zhou</title>
       <link>https://shiruipan.github.io/authors/xi-zhou/</link>
     </image>
+    
+    <item>
+      <title>Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification</title>
+      <link>https://shiruipan.github.io/publication/tnnls-23-shen/</link>
+      <pubDate>Sat, 26 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-23-shen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neighbor Contrastive Learning on Learnable Graph Augmentation</title>

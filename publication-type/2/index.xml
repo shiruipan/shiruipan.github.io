@@ -5,12 +5,28 @@
     <link>https://shiruipan.github.io/publication-type/2/</link>
       <atom:link href="https://shiruipan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Aug 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Aug 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://shiruipan.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification</title>
+      <link>https://shiruipan.github.io/publication/tnnls-23-shen/</link>
+      <pubDate>Sat, 26 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-23-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Flexible and Adaptive Neural Process for Cold-Start Recommendation</title>
+      <link>https://shiruipan.github.io/publication/tkde-23-lin/</link>
+      <pubDate>Sat, 26 Aug 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tkde-23-lin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Survey on Fairness-aware Recommender Systems</title>
