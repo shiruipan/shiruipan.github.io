@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels</title>
+      <link>https://shiruipan.github.io/publication/neurips-23-zheng-2/</link>
+      <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-23-zheng-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data</title>
+      <link>https://shiruipan.github.io/publication/neurips-23-zheng-1/</link>
+      <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-23-zheng-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Self-Interpretable Graph-Level Anomaly Detection</title>
       <link>https://shiruipan.github.io/publication/neurips-23-liu/</link>
       <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>

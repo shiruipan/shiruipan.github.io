@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels</title>
+      <link>https://shiruipan.github.io/publication/neurips-23-zheng-2/</link>
+      <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-23-zheng-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data</title>
+      <link>https://shiruipan.github.io/publication/neurips-23-zheng-1/</link>
+      <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-23-zheng-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Self-Interpretable Graph-Level Anomaly Detection</title>
       <link>https://shiruipan.github.io/publication/neurips-23-liu/</link>
       <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
@@ -287,8 +303,9 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2211.14065.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating (AAAI-23)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2202.07082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph neural networks for graphs with heterophily: A survey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2306.07608&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs (ICML-23)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;7-gnns-for-clusteringpartition&#34;&gt;7. GNNs for clustering/partition&lt;/h4&gt;
+&lt;h4 id=&#34;7-gnns-for-clusteringcommunity-detection&#34;&gt;7. GNNs for clustering/community detection&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ijcai.org/proceedings/2019/509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attributed Graph Clustering: A Deep Attentional Embedding Approach (IJCAI-19)&lt;/a&gt;(Citations: 270+)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/wang-mgae-2017/wang-mgae-2017.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MGAE: marginalized graph autoencoder for graph clustering (CIKM-17)&lt;/a&gt; (Citations: 300+)&lt;/li&gt;
@@ -296,12 +313,14 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
 &lt;h4 id=&#34;8-gnns-for-anomaly-detection&#34;&gt;8. GNNS for anomaly detection&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2103.00113.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning (TNNLS-22)&lt;/a&gt; (Citations: 90+]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/neurips-23-liu/&#34;&gt;Towards Self-Interpretable Graph-Level Anomaly Detection (NeurIPS-23)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;9-defence-and-attacks-in-gnns&#34;&gt;9. Defence and attacks in GNNs&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2202.12993&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Projective Ranking-based GNN Evasion Attacks(TKDE-22)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proceedings.mlr.press/v202/zhang23aq.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demystifying Uneven Vulnerability of Link Stealing Attacks against Graph Neural Networks (ICML-23)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;10-privacy-in-gnns-assiaccs&#34;&gt;10. Privacy in GNNs [AssiaCCS]&lt;/h4&gt;
+&lt;h4 id=&#34;10-privacy-in-gnns&#34;&gt;10. Privacy in GNNs&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2010.12751.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation (AsiaCCS-22)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/icdm-21-wu/icdm-21-wu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications (ICDM-21)&lt;/a&gt;&lt;/li&gt;
@@ -323,7 +342,7 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/www-2020-wu/www-2020-wu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unsupervised Domain Adaptive Graph Convolutional Networks (WWW-20)&lt;/a&gt; (Citations: 80+)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;15-graph-out-of-detection-generalization-and-detection&#34;&gt;15. Graph Out-of-Detection Generalization and Detection&lt;/h4&gt;
+&lt;h4 id=&#34;15-graph-out-of-distribution-generalization-and-detection&#34;&gt;15. Graph Out-of-Distribution Generalization and Detection&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2211.04208.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection (WSDM-23)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

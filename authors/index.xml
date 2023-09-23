@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Shirui Pan</title>
+    <title>Shirui Pan</title>
     <link>https://shiruipan.github.io/authors/</link>
       <atom:link href="https://shiruipan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
+    <description>Shirui Pan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
-      <title>Authors</title>
+      <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/authors/</link>
     </image>
     

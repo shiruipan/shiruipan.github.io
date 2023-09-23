@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/xingquan-zhu/</link>
       <atom:link href="https://shiruipan.github.io/authors/xingquan-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xingquan Zhu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 09:36:17 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Xingquan Zhu</title>
       <link>https://shiruipan.github.io/authors/xingquan-zhu/</link>
     </image>
+    
+    <item>
+      <title>Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data</title>
+      <link>https://shiruipan.github.io/publication/neurips-23-zheng-1/</link>
+      <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/neurips-23-zheng-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Attraction and Repulsion: Unsupervised Domain Adaptive Graph Contrastive Learning Network</title>
