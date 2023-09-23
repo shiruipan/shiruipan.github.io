@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fuyi Li | Shirui Pan</title>
-    <link>https://shiruipan.github.io/authors/fuyi-li/</link>
-      <atom:link href="https://shiruipan.github.io/authors/fuyi-li/index.xml" rel="self" type="application/rss+xml" />
-    <description>Fuyi Li</description>
+    <title>Leo Yu Zhang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/leo-yu-zhang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/leo-yu-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leo Yu Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
-      <title>Fuyi Li</title>
-      <link>https://shiruipan.github.io/authors/fuyi-li/</link>
+      <title>Leo Yu Zhang</title>
+      <link>https://shiruipan.github.io/authors/leo-yu-zhang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://shiruipan.github.io/publication/neurips-23-liu/</link>
       <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/neurips-23-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contrastive Graph Similarity Networks</title>
-      <link>https://shiruipan.github.io/publication/tweb-23-wang/</link>
-      <pubDate>Mon, 30 Jan 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tweb-23-wang/</guid>
       <description></description>
     </item>
     
