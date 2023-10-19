@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/huan-yee-koh/</link>
       <atom:link href="https://shiruipan.github.io/authors/huan-yee-koh/index.xml" rel="self" type="application/rss+xml" />
     <description>Huan Yee Koh</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2022 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Oct 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/huan-yee-koh/avatar_hu7ec68faf44aff66f5f26d3431b554f2f_20342_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Huan Yee Koh</title>
       <link>https://shiruipan.github.io/authors/huan-yee-koh/</link>
     </image>
+    
+    <item>
+      <title>Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection</title>
+      <link>https://shiruipan.github.io/publication/tnnls-23-zheng/</link>
+      <pubDate>Sun, 15 Oct 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-23-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Far are We from Robust Long Abstractive Summarization?</title>

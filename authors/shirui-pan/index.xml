@@ -37,6 +37,22 @@
     </item>
     
     <item>
+      <title>Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection</title>
+      <link>https://shiruipan.github.io/publication/tnnls-23-zheng/</link>
+      <pubDate>Sun, 15 Oct 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-23-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning</title>
+      <link>https://shiruipan.github.io/publication/rog-23-luo/</link>
+      <pubDate>Tue, 10 Oct 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/rog-23-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Few-shot Inductive Link Prediction on Knowledge Graphs: A Relational Anonymous Walk-guided Neural Process Approach</title>
       <link>https://shiruipan.github.io/publication/ecml-23-zhao/</link>
       <pubDate>Mon, 18 Sep 2023 19:47:36 +1100</pubDate>

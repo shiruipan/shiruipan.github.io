@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/lianhua-chi/</link>
       <atom:link href="https://shiruipan.github.io/authors/lianhua-chi/index.xml" rel="self" type="application/rss+xml" />
     <description>Lianhua Chi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Oct 2023 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Lianhua Chi</title>
       <link>https://shiruipan.github.io/authors/lianhua-chi/</link>
     </image>
+    
+    <item>
+      <title>Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection</title>
+      <link>https://shiruipan.github.io/publication/tnnls-23-zheng/</link>
+      <pubDate>Sun, 15 Oct 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/tnnls-23-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning</title>
