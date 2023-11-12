@@ -64,10 +64,10 @@
   
     
   
-  <meta name="description" content="Professor and ARC Future Fellow" />
+  <meta name="description" content="The emergence of Graph Neural Networks (GNNs) in graph data analysis and their deployment on Machine Learning as a Service platforms have raised critical concerns about data misuse during model training. This situation is further exacerbated due to the lack of transparency into local training processes, potentially leading to the unauthorised accumulation of large volumes of graph data, thereby infringing on the intellectual property rights of data owners. Existing methodologies often address either data misuse detection or mitigation, and are primarily designed for local GNN models rather than cloud-based MLaaS platforms. These limitations call for an effective and comprehensive solution that detects and mitigates data misuse without requiring the exact training data while respecting the proprietary nature of such data. This paper introduces a pioneering approach called GraphGuard, to tackle these challenges. We propose a training-data-free method that not only detects graph data misuse but also mitigates its impact via targeted unlearning, all without relying on the original training data. Our innovative misuse detection technique employs membership inference with radioactive data, enhancing the discernibility between member and non-member data distributions. For mitigation, we utilise synthetic graphs that emulate the characteristics previously learned by the target model, enabling effective unlearning even in the absence of exact graph data. We conduct comprehensive experiments utilising four real-world graph datasets to demonstrate the efficacy of GraphGuard in both detection and unlearning. We show that GraphGuard attains a near-perfect detection rate of approximately 100% across these datasets with various GNN models. Additionally, it accomplishes unlearning by eliminating the impact from the unlearned graph with a marginal decrease in accuracy (less than 5%)." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/tag/graph-neural-networks/" />
+  <link rel="alternate" hreflang="en-us" href="https://shiruipan.github.io/publication/ndss-23-wu/" />
 
   
   
@@ -274,8 +274,6 @@
   
 
   
-    <link rel="alternate" href="/tag/graph-neural-networks/index.xml" type="application/rss+xml" title="Shirui Pan" />
-  
 
   
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -284,7 +282,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://shiruipan.github.io/tag/graph-neural-networks/" />
+  <link rel="canonical" href="https://shiruipan.github.io/publication/ndss-23-wu/" />
 
   
   
@@ -307,33 +305,80 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Shirui Pan" />
-  <meta property="og:url" content="https://shiruipan.github.io/tag/graph-neural-networks/" />
-  <meta property="og:title" content="graph neural networks | Shirui Pan" />
-  <meta property="og:description" content="Professor and ARC Future Fellow" /><meta property="og:image" content="https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://shiruipan.github.io/publication/ndss-23-wu/" />
+  <meta property="og:title" content="GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks | Shirui Pan" />
+  <meta property="og:description" content="The emergence of Graph Neural Networks (GNNs) in graph data analysis and their deployment on Machine Learning as a Service platforms have raised critical concerns about data misuse during model training. This situation is further exacerbated due to the lack of transparency into local training processes, potentially leading to the unauthorised accumulation of large volumes of graph data, thereby infringing on the intellectual property rights of data owners. Existing methodologies often address either data misuse detection or mitigation, and are primarily designed for local GNN models rather than cloud-based MLaaS platforms. These limitations call for an effective and comprehensive solution that detects and mitigates data misuse without requiring the exact training data while respecting the proprietary nature of such data. This paper introduces a pioneering approach called GraphGuard, to tackle these challenges. We propose a training-data-free method that not only detects graph data misuse but also mitigates its impact via targeted unlearning, all without relying on the original training data. Our innovative misuse detection technique employs membership inference with radioactive data, enhancing the discernibility between member and non-member data distributions. For mitigation, we utilise synthetic graphs that emulate the characteristics previously learned by the target model, enabling effective unlearning even in the absence of exact graph data. We conduct comprehensive experiments utilising four real-world graph datasets to demonstrate the efficacy of GraphGuard in both detection and unlearning. We show that GraphGuard attains a near-perfect detection rate of approximately 100% across these datasets with various GNN models. Additionally, it accomplishes unlearning by eliminating the impact from the unlearned graph with a marginal decrease in accuracy (less than 5%)." /><meta property="og:image" content="https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2024-05-20T19:47:36&#43;11:00" />
+      <meta
+        property="article:published_time"
+        content="2023-11-10T19:47:36&#43;11:00"
+      />
     
+    <meta property="article:modified_time" content="2024-03-01T19:47:36&#43;11:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://shiruipan.github.io/publication/ndss-23-wu/"
+  },
+  "headline": "GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks",
+  
+  "datePublished": "2023-11-10T19:47:36+11:00",
+  "dateModified": "2024-03-01T19:47:36+11:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Bang Wu"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Shirui Pan",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "The emergence of Graph Neural Networks (GNNs) in graph data analysis and their deployment on Machine Learning as a Service platforms have raised critical concerns about data misuse during model training. This situation is further exacerbated due to the lack of transparency into local training processes, potentially leading to the unauthorised accumulation of large volumes of graph data, thereby infringing on the intellectual property rights of data owners. Existing methodologies often address either data misuse detection or mitigation, and are primarily designed for local GNN models rather than cloud-based MLaaS platforms. These limitations call for an effective and comprehensive solution that detects and mitigates data misuse without requiring the exact training data while respecting the proprietary nature of such data. This paper introduces a pioneering approach called GraphGuard, to tackle these challenges. We propose a training-data-free method that not only detects graph data misuse but also mitigates its impact via targeted unlearning, all without relying on the original training data. Our innovative misuse detection technique employs membership inference with radioactive data, enhancing the discernibility between member and non-member data distributions. For mitigation, we utilise synthetic graphs that emulate the characteristics previously learned by the target model, enabling effective unlearning even in the absence of exact graph data. We conduct comprehensive experiments utilising four real-world graph datasets to demonstrate the efficacy of GraphGuard in both detection and unlearning. We show that GraphGuard attains a near-perfect detection rate of approximately 100% across these datasets with various GNN models. Additionally, it accomplishes unlearning by eliminating the impact from the unlearned graph with a marginal decrease in accuracy (less than 5%)."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>graph neural networks | Shirui Pan</title>
+  <title>GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks | Shirui Pan</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="7dfa889b52c38c0afad110ccaa7c0ed0" >
 
   
   
@@ -870,87 +915,7 @@
 
 
 
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1>graph neural networks</h1>
-
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
-
-  
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/sp-23-wu/" >Securing Graph Neural Networks in MLaaS: A Comprehensive Realisation of Query-based Integrity Verification</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/authors/bang-wu/">Bang Wu</a></span>, <span >
-      <a href="/authors/xingliang-yuan/">Xingliang Yuan</a></span>, <span >
-      <a href="/authors/shuo-wang/">Shuo Wang</a></span>, <span >
-      <a href="/authors/qi-li/">Qi Li</a></span>, <span >
-      <a href="/authors/minhui-xue/">Minhui Xue</a></span>, <span class="author-highlighted">
-      <a href="/authors/shirui-pan/">Shirui Pan</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
+<div class="pub">
 
   
 
@@ -962,72 +927,31 @@
 
 
 
+
+
+
   
-    
+
   
+  
+  
+<div class="article-container pt-3">
+  <h1>GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks</h1>
 
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
+  
 
   
     
 
 
-
-
-
-
+<div class="article-metadata">
 
   
-
-
-
-
-
-
-
   
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/ndss-23-wu/" >GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks</a>
-    </div>
-
+  
+  
+  <div>
     
-    <a href="/publication/ndss-23-wu/"  class="summary-link">
-      <div class="article-style">
-        The emergence of Graph Neural Networks (GNNs) in graph data analysis and their deployment on Machine Learning as a Service platforms …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
 
   <span >
       <a href="/authors/bang-wu/">Bang Wu</a></span>, <span >
@@ -1037,61 +961,47 @@
       <a href="/authors/minhui-xue/">Minhui Xue</a></span>, <span class="author-highlighted">
       <a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span >
       <a href="/authors/xingliang-yuan/">Xingliang Yuan</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
   </div>
-  <div class="ml-3">
+  
+  
+
+  
+  <span class="article-date">
     
     
-  </div>
+      
+    
+    March, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
 </div>
 
-  
     
 
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
 
 
 
@@ -1103,779 +1013,387 @@
 
 
 
+
+
+  
+    
   
 
 
-<div class="media stream-item view-compact">
-  <div class="media-body">
 
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/neurips-23-zheng-2/" >GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels</a>
-    </div>
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
 
     
-    <a href="/publication/neurips-23-zheng-2/"  class="summary-link">
-      <div class="article-style">
-        Evaluating the performance of graph neural networks (GNNs) is an essential task for practical GNN model deployment and serving, as …
+    <h3>Abstract</h3>
+    <p class="pub-abstract">The emergence of Graph Neural Networks (GNNs) in graph data analysis and their deployment on Machine Learning as a Service platforms have raised critical concerns about data misuse during model training. This situation is further exacerbated due to the lack of transparency into local training processes, potentially leading to the unauthorised accumulation of large volumes of graph data, thereby infringing on the intellectual property rights of data owners. Existing methodologies often address either data misuse detection or mitigation, and are primarily designed for local GNN models rather than cloud-based MLaaS platforms. These limitations call for an effective and comprehensive solution that detects and mitigates data misuse without requiring the exact training data while respecting the proprietary nature of such data. This paper introduces a pioneering approach called GraphGuard, to tackle these challenges. We propose a training-data-free method that not only detects graph data misuse but also mitigates its impact via targeted unlearning, all without relying on the original training data. Our innovative misuse detection technique employs membership inference with radioactive data, enhancing the discernibility between member and non-member data distributions. For mitigation, we utilise synthetic graphs that emulate the characteristics previously learned by the target model, enabling effective unlearning even in the absence of exact graph data. We conduct comprehensive experiments utilising four real-world graph datasets to demonstrate the efficacy of GraphGuard in both detection and unlearning. We show that GraphGuard attains a near-perfect detection rate of approximately 100% across these datasets with various GNN models. Additionally, it accomplishes unlearning by eliminating the impact from the unlearned graph with a marginal decrease in accuracy (less than 5%).</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
       </div>
-    </a>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
 
-    <div class="stream-meta article-metadata">
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">The Network and Distributed System Security Symposium (NDSS), San Francisco, CA, USA,  M26 February–1 March, 2024 (CORE A*)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
-      
+    <div class="space-below"></div>
 
+    <div class="article-style"></div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/graph-neural-networks/">graph neural networks</a>
+  
+  <a class="badge badge-light" href="/tag/security/">security</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
       
-      <div>
+      
+      
         
-
-  <span >
-      <a href="/authors/xin-zheng/">Xin Zheng</a></span>, <span >
-      <a href="/authors/miao-zhang/">Miao Zhang</a></span>, <span >
-      <a href="/authors/chunyang-chen/">Chunyang Chen</a></span>, <span >
-      <a href="/authors/soheila-molaei/">Soheila Molaei</a></span>, <span >
-      <a href="/authors/chuan-zhou/">Chuan Zhou</a></span>, <span class="author-highlighted">
-      <a href="/authors/shirui-pan/">Shirui Pan</a></span>
-      </div>
       
-    </div>
-
-    
-    <div class="btn-links">
       
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2310.14586.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/neurips-23-zheng-1/" >Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data</a>
-    </div>
-
-    
-    <a href="/publication/neurips-23-zheng-1/"  class="summary-link">
-      <div class="article-style">
-        Graph condensation, which reduces the size of a large-scale graph by synthesizing a small-scale condensed graph as its substitution, …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
       
-
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://shiruipan.github.io/publication/ndss-23-wu/&amp;text=GraphGuard:%20Detecting%20and%20Counteracting%20Training%20Data%20Misuse%20in%20Graph%20Neural%20Networks" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
       
-      <div>
+      
+      
         
-
-  <span >
-      <a href="/authors/xin-zheng/">Xin Zheng</a></span>, <span >
-      <a href="/authors/miao-zhang/">Miao Zhang</a></span>, <span >
-      <a href="/authors/chunyang-chen/">Chunyang Chen</a></span>, <span >
-      <a href="/authors/quoc-viet-hung-nguyen/">Quoc Viet Hung Nguyen</a></span>, <span >
-      <a href="/authors/xingquan-zhu/">Xingquan Zhu</a></span>, <span class="author-highlighted">
-      <a href="/authors/shirui-pan/">Shirui Pan</a></span>
-      </div>
       
-    </div>
-
-    
-    <div class="btn-links">
       
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2306.02664.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/neurips-23-liu/" >Towards Self-Interpretable Graph-Level Anomaly Detection</a>
-    </div>
-
-    
-    <a href="/publication/neurips-23-liu/"  class="summary-link">
-      <div class="article-style">
-        Graph-level anomaly detection (GLAD) aims to identify graphs that exhibit notable dissimilarity compared to the majority in a …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
       
-
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://shiruipan.github.io/publication/ndss-23-wu/&amp;t=GraphGuard:%20Detecting%20and%20Counteracting%20Training%20Data%20Misuse%20in%20Graph%20Neural%20Networks" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
       
-      <div>
+      
+      
         
-
-  <span >
-      <a href="/authors/yixin-liu/">Yixin Liu</a></span>, <span >
-      <a href="/authors/kaize-ding/">Kaize Ding</a></span>, <span >
-      <a href="/authors/qinghua-lu/">Qinghua Lu</a></span>, <span >
-      <a href="/authors/fuyi-li/">Fuyi Li</a></span>, <span >
-      <a href="/authors/leo-yu-zhang/">Leo Yu Zhang</a></span>, <span class="author-highlighted">
-      <a href="/authors/shirui-pan/">Shirui Pan</a></span>
-      </div>
       
-    </div>
-
-    
-    <div class="btn-links">
       
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2310.16520.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/tnnls-23-zheng/" >Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection</a>
-    </div>
-
-    
-    <a href="/publication/tnnls-23-zheng/"  class="summary-link">
-      <div class="article-style">
-        Multivariate time-series anomaly detection is critically important in many applications, including retail, transportation, power grid, …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
       
-
+      <li>
+        <a href="mailto:?subject=GraphGuard:%20Detecting%20and%20Counteracting%20Training%20Data%20Misuse%20in%20Graph%20Neural%20Networks&amp;body=https://shiruipan.github.io/publication/ndss-23-wu/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
       
-      <div>
+      
+      
         
-
-  <span >
-      <a href="/authors/yu-zheng/">Yu Zheng</a></span>, <span >
-      <a href="/authors/huan-yee-koh/">Huan Yee Koh</a></span>, <span >
-      <a href="/authors/ming-jin/">Ming Jin</a></span>, <span >
-      <a href="/authors/lianhua-chi/">Lianhua Chi</a></span>, <span >
-      <a href="/authors/khoa-t.-phan/">Khoa T. Phan</a></span>, <span class="author-highlighted">
-      <a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span >
-      <a href="/authors/yi-ping-phoebe-chen/">Yi-Ping Phoebe Chen</a></span>, <span >
-      <a href="/authors/wei-xiang/">Wei Xiang</a></span>
-      </div>
       
-    </div>
-
-    
-    <div class="btn-links">
       
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2307.08390" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/ecml-23-zhao/" >Towards Few-shot Inductive Link Prediction on Knowledge Graphs: A Relational Anonymous Walk-guided Neural Process Approach</a>
-    </div>
-
-    
-    <a href="/publication/ecml-23-zhao/"  class="summary-link">
-      <div class="article-style">
-        Few-shot inductive link prediction on knowledge graphs (KGs) aims to predict missing links for unseen entities with few-shot links …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
       
-
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://shiruipan.github.io/publication/ndss-23-wu/&amp;title=GraphGuard:%20Detecting%20and%20Counteracting%20Training%20Data%20Misuse%20in%20Graph%20Neural%20Networks" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
       
-      <div>
+      
+      
         
-
-  <span >
-      <a href="/authors/zicheng-zhao/">Zicheng Zhao</a></span>, <span >
-      <a href="/authors/linhao-luo/">Linhao Luo</a></span>, <span class="author-highlighted">
-      <a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span >
-      <a href="/authors/quoc-viet-hung-nguyen/">Quoc Viet Hung Nguyen</a></span>, <span >
-      <a href="/authors/chen-gong/">Chen Gong</a></span>
-      </div>
       
-    </div>
-
-    
-    <div class="btn-links">
       
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2307.01204.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/tnnls-23-shen/" >Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
       
-
+      <li>
+        <a href="whatsapp://send?text=GraphGuard:%20Detecting%20and%20Counteracting%20Training%20Data%20Misuse%20in%20Graph%20Neural%20Networks%20https://shiruipan.github.io/publication/ndss-23-wu/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
       
-      <div>
+      
+      
         
-
-  <span >
-      <a href="/authors/xiao-shen/">Xiao Shen</a></span>, <span >
-      <a href="/authors/mengqiu-shao/">Mengqiu Shao</a></span>, <span class="author-highlighted">
-      <a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span >
-      <a href="/authors/laurence-yang/">Laurence Yang</a></span>, <span >
-      <a href="/authors/xi-zhou/">Xi Zhou</a></span>
-      </div>
       
-    </div>
-
-    
-    <div class="btn-links">
       
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/tnnls-23-shen/tnnls-23-shen.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/kdd-23-liu/" >Learning Strong Graph Neural Networks with Weak Information</a>
-    </div>
-
-    
-    <a href="/publication/kdd-23-liu/"  class="summary-link">
-      <div class="article-style">
-        Graph Neural Networks (GNNs) have exhibited impressive performance in many graph learning tasks. Nevertheless, the performance of GNNs …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
       
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/authors/yixin-liu/">Yixin Liu</a></span>, <span >
-      <a href="/authors/kaize-ding/">Kaize Ding</a></span>, <span >
-      <a href="/authors/jianling-wang/">Jianling Wang</a></span>, <span >
-      <a href="/authors/vincent-lee/">Vincent Lee</a></span>, <span >
-      <a href="/authors/huan-liu/">Huan Liu</a></span>, <span class="author-highlighted">
-      <a href="/authors/shirui-pan/">Shirui Pan</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2305.18457.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/tnnls-23-wan/" >Boosting Graph Contrastive Learning via Adaptive Sampling</a>
-    </div>
-
-    
-    <a href="/publication/tnnls-23-wan/"  class="summary-link">
-      <div class="article-style">
-        Contrastive Learning (CL) is a prominent technique for self-supervised representation learning, which aims to contrast semantically …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/authors/sheng-wan/">Sheng Wan</a></span>, <span >
-      <a href="/authors/yibing-zhan/">Yibing Zhan</a></span>, <span >
-      <a href="/authors/shuo-chen/">Shuo Chen</a></span>, <span class="author-highlighted">
-      <a href="/authors/shirui-pan/">Shirui Pan</a></span>, <span >
-      <a href="/authors/jian-yang/">Jian Yang</a></span>, <span >
-      <a href="/authors/dacheng-tao/">Dacheng Tao</a></span>, <span >
-      <a href="/authors/chen-gong/">Chen Gong</a></span>
-      </div>
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-
-  
-<nav class="mt-1">
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/graph-neural-networks/page/2/">&raquo;</a></li>
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://shiruipan.github.io/publication/ndss-23-wu/&amp;title=GraphGuard:%20Detecting%20and%20Counteracting%20Training%20Data%20Misuse%20in%20Graph%20Neural%20Networks" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
-</nav>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/bang-wu/"><img class="avatar mr-3 avatar-circle" src="/authors/bang-wu/avatar_hu2dd37d392c8646ea01c5cf7b022785b3_5843845_270x270_fill_q75_lanczos_center.jpg" alt="Bang Wu"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/bang-wu/">Bang Wu</a></h5>
+      <h6 class="card-subtitle">Postdoc @ CSIRO&rsquo;s Data61</h6>
+      <p class="card-text">My research interests include machine learning, security and privacy of machine learning.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/he-zhang/"><img class="avatar mr-3 avatar-circle" src="/authors/he-zhang/avatar_huda0d38eb919fb1d0cb5359be8a4e7e77_71522_270x270_fill_q75_lanczos_center.jpg" alt="He Zhang"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/he-zhang/">He Zhang</a></h5>
+      <h6 class="card-subtitle">PhD Student @ Monash (04/2021-)</h6>
+      <p class="card-text">My research interests include data mining, machine learning, and graph analysis.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/shirui-pan/"><img class="avatar mr-3 avatar-circle" src="/authors/shirui-pan/avatar_hu85d38fc0f5ccf75a7cf297e042aebde1_1067481_270x270_fill_q75_lanczos_center.jpg" alt="Shirui Pan"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/shirui-pan/">Shirui Pan</a></h5>
+      <h6 class="card-subtitle">Professor | ARC Future Fellow</h6>
+      <p class="card-text">My research interests include data mining, machine learning, and graph  analysis.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//experts.griffith.edu.au/37935-shirui-pan" >
+        <i class="fa fa-university"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//scholar.google.com.au/citations?user=frWRJN4AAAAJ&amp;hl=enJ" >
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//dblp.uni-trier.de/pers/hd/p/Pan:Shirui" >
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//orcid.org/0000-0003-0794-527X" >
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 

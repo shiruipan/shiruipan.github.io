@@ -41,6 +41,14 @@
     </item>
     
     <item>
+      <title>GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/ndss-23-wu/</link>
+      <pubDate>Fri, 01 Mar 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/ndss-23-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels</title>
       <link>https://shiruipan.github.io/publication/neurips-23-zheng-2/</link>
       <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
