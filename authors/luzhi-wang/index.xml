@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/luzhi-wang/</link>
       <atom:link href="https://shiruipan.github.io/authors/luzhi-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Luzhi Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Aug 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/luzhi-wang/avatar_hu7dcae260c56dea1131f65413516c7bdc_344854_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Luzhi Wang</title>
       <link>https://shiruipan.github.io/authors/luzhi-wang/</link>
     </image>
+    
+    <item>
+      <title>GOODAT: Towards Test-time Graph Out-of-Distribution Detection</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-wang/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Survey on Fairness-aware Recommender Systems</title>

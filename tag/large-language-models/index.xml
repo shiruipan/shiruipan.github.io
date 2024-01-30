@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/tag/large-language-models/</link>
       <atom:link href="https://shiruipan.github.io/tag/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>large language models</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>large language models</title>
       <link>https://shiruipan.github.io/tag/large-language-models/</link>
     </image>
+    
+    <item>
+      <title>IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion</title>
+      <link>https://shiruipan.github.io/publication/www-24-wang/</link>
+      <pubDate>Mon, 13 May 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-24-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning</title>

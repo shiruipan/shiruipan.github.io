@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shixun Huang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/shixun-huang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/shixun-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shixun Huang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Shixun Huang</title>
+      <link>https://shiruipan.github.io/authors/shixun-huang/</link>
+    </image>
+    
+    <item>
+      <title>Cost-effective Data Labelling for Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/www-24-huang/</link>
+      <pubDate>Mon, 13 May 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-24-huang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanjun Zhang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/yanjun-zhang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/yanjun-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanjun Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Yanjun Zhang</title>
+      <link>https://shiruipan.github.io/authors/yanjun-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Towards Model Extraction Attacks in GAN-based Image Translation via Domain Shift Mitigation</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-mi/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-mi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

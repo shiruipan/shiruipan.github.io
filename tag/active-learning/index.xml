@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>active learning | Shirui Pan</title>
+    <link>https://shiruipan.github.io/tag/active-learning/</link>
+      <atom:link href="https://shiruipan.github.io/tag/active-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>active learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>active learning</title>
+      <link>https://shiruipan.github.io/tag/active-learning/</link>
+    </image>
+    
+    <item>
+      <title>Cost-effective Data Labelling for Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/www-24-huang/</link>
+      <pubDate>Mon, 13 May 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-24-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GOODAT: Towards Test-time Graph Out-of-Distribution Detection</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-wang/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-xiong/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Model Extraction Attacks in GAN-based Image Translation via Domain Shift Mitigation</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-mi/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-mi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

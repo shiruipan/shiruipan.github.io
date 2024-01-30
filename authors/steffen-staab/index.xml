@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/steffen-staab/</link>
       <atom:link href="https://shiruipan.github.io/authors/steffen-staab/index.xml" rel="self" type="application/rss+xml" />
     <description>Steffen Staab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Steffen Staab</title>
       <link>https://shiruipan.github.io/authors/steffen-staab/</link>
     </image>
+    
+    <item>
+      <title>NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-xiong/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-xiong/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pseudo-Riemannian Graph Convolutional Networks</title>

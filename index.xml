@@ -41,10 +41,42 @@
     </item>
     
     <item>
+      <title>Cost-effective Data Labelling for Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/www-24-huang/</link>
+      <pubDate>Mon, 13 May 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-24-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion</title>
+      <link>https://shiruipan.github.io/publication/www-24-wang/</link>
+      <pubDate>Mon, 13 May 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/www-24-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online GNN Evaluation Under Test-time Graph Distribution Shifts</title>
+      <link>https://shiruipan.github.io/publication/iclr-24-zheng/</link>
+      <pubDate>Fri, 10 May 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/iclr-24-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning</title>
       <link>https://shiruipan.github.io/publication/iclr-24-luo/</link>
       <pubDate>Fri, 10 May 2024 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/iclr-24-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-LLM: Time Series Forecasting by Reprogramming Large Language Models</title>
+      <link>https://shiruipan.github.io/publication/iclr-24-jin/</link>
+      <pubDate>Fri, 10 May 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/iclr-24-jin/</guid>
       <description></description>
     </item>
     
@@ -61,6 +93,30 @@
       <link>https://shiruipan.github.io/publication/ndss-23-wu/</link>
       <pubDate>Fri, 01 Mar 2024 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/ndss-23-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GOODAT: Towards Test-time Graph Out-of-Distribution Detection</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-wang/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-xiong/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Model Extraction Attacks in GAN-based Image Translation via Domain Shift Mitigation</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-mi/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-mi/</guid>
       <description></description>
     </item>
     

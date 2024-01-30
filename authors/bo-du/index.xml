@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/bo-du/</link>
       <atom:link href="https://shiruipan.github.io/authors/bo-du/index.xml" rel="self" type="application/rss+xml" />
     <description>Bo Du</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Bo Du</title>
       <link>https://shiruipan.github.io/authors/bo-du/</link>
     </image>
+    
+    <item>
+      <title>Online GNN Evaluation Under Test-time Graph Distribution Shifts</title>
+      <link>https://shiruipan.github.io/publication/iclr-24-zheng/</link>
+      <pubDate>Fri, 10 May 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/iclr-24-zheng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reinforcement Learning based Meta-path Discovery in Large-scale Heterogeneous Information Networks</title>

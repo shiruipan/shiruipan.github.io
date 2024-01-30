@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/yixin-liu/</link>
       <atom:link href="https://shiruipan.github.io/authors/yixin-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yixin Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/yixin-liu/avatar_hua0d4d4b24f4da3a102e4452ac738b95f_101461_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yixin Liu</title>
       <link>https://shiruipan.github.io/authors/yixin-liu/</link>
     </image>
+    
+    <item>
+      <title>GOODAT: Towards Test-time Graph Out-of-Distribution Detection</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-wang/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Self-Interpretable Graph-Level Anomaly Detection</title>

@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/dongxiao-he/</link>
       <atom:link href="https://shiruipan.github.io/authors/dongxiao-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Dongxiao He</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>Dongxiao He</title>
       <link>https://shiruipan.github.io/authors/dongxiao-he/</link>
     </image>
+    
+    <item>
+      <title>GOODAT: Towards Test-time Graph Out-of-Distribution Detection</title>
+      <link>https://shiruipan.github.io/publication/aaai-24-wang/</link>
+      <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/aaai-24-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning</title>
