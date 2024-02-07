@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao Zhang | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/xiao-zhang/</link>
+      <atom:link href="https://shiruipan.github.io/authors/xiao-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiao Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Mar 2024 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiao Zhang</title>
+      <link>https://shiruipan.github.io/authors/xiao-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Maximizing Malicious Influence in Node Injection Attack</title>
+      <link>https://shiruipan.github.io/publication/wsdm-24-zhang/</link>
+      <pubDate>Mon, 04 Mar 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/wsdm-24-zhang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
