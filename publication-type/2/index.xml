@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/publication-type/2/</link>
       <atom:link href="https://shiruipan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Jun 2024 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://shiruipan.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>A Comprehensive Survey on Distributed Training of Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/pieee-24-zhang/</link>
+      <pubDate>Sat, 08 Jun 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/pieee-24-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cost-effective Data Labelling for Graph Neural Networks</title>
@@ -89,6 +97,14 @@
       <link>https://shiruipan.github.io/publication/aaai-24-mi/</link>
       <pubDate>Tue, 20 Feb 2024 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/aaai-24-mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Survey on Distributed Training of Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/pieee-23-lin/</link>
+      <pubDate>Fri, 08 Dec 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/pieee-23-lin/</guid>
       <description></description>
     </item>
     

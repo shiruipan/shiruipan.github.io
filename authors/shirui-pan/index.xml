@@ -5,12 +5,20 @@
     <link>https://shiruipan.github.io/authors/shirui-pan/</link>
       <atom:link href="https://shiruipan.github.io/authors/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 19:47:36 +1100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Jun 2024 19:47:36 +1100</lastBuildDate>
     <image>
       <url>https://shiruipan.github.io/authors/shirui-pan/avatar_hu85d38fc0f5ccf75a7cf297e042aebde1_1067481_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shirui Pan</title>
       <link>https://shiruipan.github.io/authors/shirui-pan/</link>
     </image>
+    
+    <item>
+      <title>A Comprehensive Survey on Distributed Training of Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/pieee-24-zhang/</link>
+      <pubDate>Sat, 08 Jun 2024 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/pieee-24-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Securing Graph Neural Networks in MLaaS: A Comprehensive Realisation of Query-based Integrity Verification</title>
@@ -129,6 +137,14 @@
       <link>https://shiruipan.github.io/publication/neurips-23-liu/</link>
       <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
       <guid>https://shiruipan.github.io/publication/neurips-23-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Survey on Distributed Training of Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/pieee-23-lin/</link>
+      <pubDate>Fri, 08 Dec 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/pieee-23-lin/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haiyang Lin | Shirui Pan</title>
+    <link>https://shiruipan.github.io/authors/haiyang-lin/</link>
+      <atom:link href="https://shiruipan.github.io/authors/haiyang-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haiyang Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Dec 2023 19:47:36 +1100</lastBuildDate>
+    <image>
+      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <title>Haiyang Lin</title>
+      <link>https://shiruipan.github.io/authors/haiyang-lin/</link>
+    </image>
+    
+    <item>
+      <title>A Comprehensive Survey on Distributed Training of Graph Neural Networks</title>
+      <link>https://shiruipan.github.io/publication/pieee-23-lin/</link>
+      <pubDate>Fri, 08 Dec 2023 19:47:36 +1100</pubDate>
+      <guid>https://shiruipan.github.io/publication/pieee-23-lin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
